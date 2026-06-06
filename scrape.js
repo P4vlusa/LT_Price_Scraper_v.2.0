@@ -17,18 +17,21 @@ async function scrape() {
 
   for (let file of files) {
     const data = JSON.parse(fs.readFileSync(path.join(sourcesDir, file), "utf8"));
-    const agency = data.agency;
+    const agency = data.agency || file.replace(".json", "");
 
     console.log("=== Đang xử lý đại lý:", agency, "===");
 
     for (let item of data.urls) {
-      console.log("Scraping:", item.model);
+      const model = item.model || item.name || "Unknown";
+      const url = item.url;
+
+      console.log("Scraping:", url);
 
       let price = "N/A";
       let source = "N/A";
 
       try {
-        await page.goto(item.url, {
+        await page.goto(url, {
           waitUntil: "networkidle2",
           timeout: 60000
         });
@@ -43,15 +46,15 @@ async function scrape() {
           } catch (e) {}
         }
       } catch (e) {
-        console.log("Error loading:", item.url);
+        console.log("Error loading:", url);
       }
 
       results.push([
-        item.model,
-        item.url,
+        model,
+        url,
         price,
         source,
-        agency,                     // ⭐ THÊM CỘT ĐẠI LÝ
+        agency,
         new Date().toISOString()
       ]);
     }
