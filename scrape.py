@@ -32,7 +32,7 @@ def fetch_price(url, selectors):
                 if len(price) > 4:
                     return price, sel
 
-        # fallback: tìm số tiền trong toàn trang
+        # fallback: regex
         import re
         match = re.search(r"\d{1,3}(?:\.\d{3}){1,3}", html)
         if match:
@@ -55,14 +55,16 @@ def write_to_sheet(rows):
 
     service.spreadsheets().values().append(
         spreadsheetId=os.getenv("GOOGLE_SHEET_ID"),
-        range="Log!A:F",
+        range="Log!A:G",
         valueInputOption="RAW",
         body=body
     ).execute()
 
 def scrape():
     is_cloud = os.getenv("CLOUD_MODE") == "1"
-    print("MODE:", "CLOUD" if is_cloud else "LOCAL")
+    mode_label = "CLOUD" if is_cloud else "LOCAL"
+
+    print("MODE:", mode_label)
 
     results = []
 
@@ -73,14 +75,14 @@ def scrape():
         data = json.load(open(f"./sources/{file}", "r", encoding="utf-8"))
         agency = data.get("agency", file.replace(".json", ""))
 
-        print(f"=== {agency} ===")
+        print("Processing:", agency)
 
         for item in data["urls"]:
             url = item["url"]
             selectors = item.get("selector", [])
 
             if is_cloud and is_blocked(url):
-                print("⏭ Bỏ qua (cloud bị chặn):", url)
+                print("Skip (blocked on cloud):", url)
                 continue
 
             print("Scraping:", url)
@@ -92,11 +94,12 @@ def scrape():
                 price,
                 source,
                 agency,
-                time.strftime("%Y-%m-%d %H:%M:%S")
+                time.strftime("%Y-%m-%d %H:%M:%S"),
+                mode_label  # cột mới
             ])
 
     write_to_sheet(results)
-    print("✔ DONE:", len(results), "rows")
+    print("DONE:", len(results), "rows")
 
 if __name__ == "__main__":
     scrape()
