@@ -4,7 +4,9 @@
     {
       "model": "LOQ Essential 15IAX9E-83LK0079VN",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-loq-essential-15iax9e-83lk0036vn-intel-i5-12450hx-ram-12gb-ssd-512gb-rtx-3050-156-inch-full-hd-144hz-100-srgb",
-      "selector": []
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
     }
   ]
 }
