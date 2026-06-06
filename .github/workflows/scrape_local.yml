@@ -2,27 +2,23 @@ name: Scrape Local
 
 on:
   schedule:
-    - cron: "0 2 * * *"   # 9h sáng VN (02:00 UTC)
+    - cron: "0 2 * * *"
   workflow_dispatch:
 
 jobs:
   scrape:
-    runs-on:
-      - self-hosted
-      
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+    runs-on: self-hosted
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Install dependencies
-        run: npm install
+      - run: npm install
 
-      - name: Run scraper (local)
+      - name: Run local scraper
         env:
           GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
           GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
