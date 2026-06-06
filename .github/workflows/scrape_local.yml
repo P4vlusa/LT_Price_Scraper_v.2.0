@@ -9,8 +9,7 @@ jobs:
   scrape:
     runs-on:
       - self-hosted
-      - local
-
+      
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
