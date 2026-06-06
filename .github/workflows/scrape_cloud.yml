@@ -2,7 +2,7 @@ name: Scrape Cloud
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 2 * * *"   # 9h sáng VN
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v4
