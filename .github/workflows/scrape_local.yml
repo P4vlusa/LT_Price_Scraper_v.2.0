@@ -1,17 +1,16 @@
 name: Scrape Local
 
 on:
-  schedule:
-    - cron: "0 2 * * *"   # 9h sáng VN
   workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
 
 jobs:
   scrape:
     runs-on: self-hosted
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v4
