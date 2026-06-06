@@ -52,7 +52,7 @@ def scrape():
     is_cloud = os.getenv("CLOUD_MODE") == "1"
 
     # Mode label
-    mode_label = "CLOUD" if is_cloud else "LOCAL-BYPASS"
+    mode_label = "Cloud" if is_cloud else "Local"
 
     print("MODE:", mode_label)
 
