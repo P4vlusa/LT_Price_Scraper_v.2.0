@@ -5,8 +5,9 @@
       "model": "LOQ Essential 15IAX9E-83LK0079VN",
       "url": "https://www.anphatpc.com.vn/laptop-lenovo-loq-15iax9e-83lk0079vn.html",
       "selector": [
-        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
-        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+        "span#span-price",
+        "span[itemprop='price']",
+        "div.product-info-price span"
       ]
     }
   ]
