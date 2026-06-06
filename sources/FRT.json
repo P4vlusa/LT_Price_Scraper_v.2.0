@@ -5,7 +5,6 @@
       "model": "LOQ Essential 15IAX9E-83LK0079VN",
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-e-15iax9e-i5-12450hx-83lk0079vn",
       "selector": [
-        "#price-product > div:nth-child(1) > span",
         "#price-product > div:nth-child(1) > span"
       ]
     }
