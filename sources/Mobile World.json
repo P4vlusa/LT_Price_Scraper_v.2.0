@@ -4,7 +4,9 @@
     {
       "model": "LOQ Essential 15IAX9E-83LK0079VN",
       "url": "https://www.thegioididong.com/laptop/lenovo-loq-15iax9e-i5-83lk0079vn",
-      "selector": []
+      "selector": [
+        "body > section > div.box_main > div.box_right > div.box04.box_normal > div.box_servicepack.servicepack_multy_ops.pack_vip_choose > div.active > span > b"
+      ]
     }
   ]
 }
