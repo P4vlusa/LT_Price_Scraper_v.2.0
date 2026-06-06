@@ -5,6 +5,2287 @@
       "model": "LOQ Essential 15IAX9E-83LK0079VN",
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-e-15iax9e-i5-12450hx-83lk0079vn",
       "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 14IRH10-83K00008VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-14irh10-83k00008vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Victus 15-fa2731TX (B85LNPA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-gaming-victus-15-fa2731tx-i5-13420h-b85lnpa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Gaming VivoBook 16X K3605VC-RP431W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-gaming-k3605vc-rp431w-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "TUF Gaming F16 FX607VJ-RL034W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-tuf-gaming-f16-fx607vj-rl034w-core-5-210h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15-fd0235TU (9Q970PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-15-fd0235tu-i5-1334u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook 15 X1502VA-BQ885W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x1502va-bq885w-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL15-41P-R3U5 (NX.J53SV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-15-al15-41p-r3u5-r7-5700u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook Go 14 E1404FA-EB482W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-e1404fa-eb482w-r5-7520u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Nitro V ANV15-41-R2UP (NH.QPGSV.004)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-nitro-v-gaming-anv15-41-r2up-r5-6600h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "14-em0086AU (835T9PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-14-em0086au-r5-7520u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Vivobook 15 X1502VA-BQ886W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-15-x1502va-bq886w-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire 7 Gaming A715-59G-57TU (NH.QX6SV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-7-gaming-a715-59g-57tu-i5-12450h-16gb",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook 14 X1405VA-LY623W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-14-x1405va-ly623w-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15 DC15250-DC15250-i5U165W11SLU",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-15-3530-i5-1334u-i5u165w11slu",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook 14 X1404VA-NK394W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x1404va-nk394w-i3-1315u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL15-41P-R3QL (NX.J54SV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-15-al15-41p-r3ql-r7-5700u-8gb",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL14-71M-52GQ (NX.J4ASV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-14-al14-71m-52gq-i5-12500h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook Go 15 E1504FA-BQ1150W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-e1504fa-bq1150w-r5-7520u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "14-ep0220TU (B73VWPA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-14-ep0220tu-i3-1315u-b73vwpa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL14-52M-32KV (NX.J38SV.003)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-14-gen-2-al14-52m-32kv",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Nitro V ANV15-41-R1JY (NH.QPFSV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-nitro-v-gaming-anv15-41-r1jy-r5-6600h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15 DC15250-71071928",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i5-1334u-71071928",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook Go 14 E1404FA-NK177W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-go-14-e1404fa-nk177w-r5-7520u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Victus 15-fb3116AX (BX8U4PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-gaming-victus-15-fb3116ax-r7-7445hs-bx8u4pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15 DC15255-DC5R5802W1",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15255-r5-7530u-dc5r5802w1",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15 DC15250-DC15250-i7U161W11SLU",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i7-1355u-i7u161w11slu-512gb",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "14-ep1179TU (C89ZSPA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-14-ep1179tu-core-5-120u-c89zspa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook Go 15 E1504GA-BQ1141W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-go-15-e1504ga-bq1141w-i3-n305",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook S14 S3407VA-LY146W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s3407va-ly146w-core-5-210h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 16IRH10-83K20003VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-16irh10-83k20003vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "14-ep0112TU (8C5L1PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-14-ep0112tu-i5-1335u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 16IRH10-83K20002VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-16irh10-83k20002vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "TUF Gaming F16 FX607VU-RL045W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-tuf-gaming-f16-fx607vu-rl045w-core-5-210h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 15ABR8-82XM00MDVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-15abr8-82xm00mdvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook 5 16-af1048TU (BZ7Q9PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-5-ai-16-af1048tu-ultra-5-225u-bz7q9pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL16-71P-5674 (NX.D4XSV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-16-ai-al16-71p-5674-ultra-5-125h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 15IRH10-83K1000GVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-15irh10-83k1000gvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "V14 G4 IRU-83A000S4VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-v14-g4-iru-i3-1315u-83a000s4vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Nitro V ANV15-41-R9M1 (NH.QPFSV.004)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-propanel-anv15-41-r9m1-r5-7535hs",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15 DC15250-CPH997",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i7-1355u-cph997",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15-fd1289TU (C2CV8PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-15-fd1289tu-ultra-7-155h-c2cv8pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 14IRH10-83K0000AVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-14irh10-83k0000avn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 B13VFK-676VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-b13vfk-676vn-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook S14 S3407VA-LY046W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s14-s3407va-ly046w-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "TUF Gaming A15 FA506NCG-HN184W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-tuf-gaming-fa506ncg-hn184w-r7-7445hs",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire 7 A715-59G-73LB (NH.QX6SV.002)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-7-gaming-a715-59g-73lb-i7-12650h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15-fd0305TU (A2NL6PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-15-fd0305tu-i3-1315u-a2nl6pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 15IRH10-83K1000JVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-15irh10-83k1000jvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook 5 Flip 14-fp0057TU (BZ7Q6PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-5-flip-x360-14-fp0057tu-core-5-120u-bz7q6pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Nitro V ANV15-41-R7CR (NH.QPESV.003)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-propanel-anv15-41-r7cr-r5-7535hs",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook 16 X1605VA-MB1826W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x1605va-mb1826w",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Victus 15-fa2732TX (B85LPPA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-gaming-victus-15-fa2732tx-i5-13420h-b85lppa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 5 15ARP10-83J3001DVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-5-oled-15arp10-83j3001dvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15 DC15250-71073959",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i7-1355u-71073959",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 14IRH10-83K0000BVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-14irh10-i5-13420h-83k0000bvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Victus 15-fb3115AX (BX9C9PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-gaming-victus-15-fb3116ax-r7-7445hs-bx9c9pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 5 14AKP10-83HX001JVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-5-14akp10-ryzen-ai-7-350-83hx001jvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Gaming VivoBook 16X K3605VC-RP491W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-gaming-16-k3605vc-rp491w-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL16-52P-572A (NX.J2SSV.004)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-16-gen-2-al16-52p-572a-i5-1334u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL14-52M-54CJ (NX.J39SV.002)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-al14-52m-54cj",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Nitro Lite NL16-71G-71UJ (NH.D59SV.002)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-lite-16-nl16-71g-71uj-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Go AG14-71M-52LH (NX.JF5SV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-go-14-ai-ag14-71m-52lh-ultra5-115u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "250R G10 (C3SH7AT)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-250r-g10-core-5-120u-c3sh7at",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "LOQ 15ARP9-83JC00M3VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-15arp9-r5-7235hs-83jc00m3vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Thin 15 B13UC-3247VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-thin-15-b13uc-3247vn-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook 15 X1504VA-BQ165W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-15-x1504va-bq165w-core-5-120u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ZenBook 14 OLED UX3405CA-PZ187WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-zenbook-14-oled-ux3405ca-pz187ws",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Modern 15 F13MG-667VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-15-f13mg-667vn-i5-1334u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "LOQ 15ARP9-83JC00LVVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-15arp9-r5-7235hs-83jc00lvvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ZenBook 14 OLED UX3405CA-PZ204WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-zenbook-14-oled-ux3405ca-pz204ws",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook 15 OLED A1505VA-L1688W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-15-oled-a1505va-l1688w-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Nitro V ANV15-52-72BM (NH.QZ9SV.004)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-propanel-anv15-52-72bm-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook 5 16-af1046TU (BZ7Q8PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-5-ai-16-af1046tu-ultra-5-225u-bz7q8pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "14-em0255AU (C81N3PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-14-em0255au-r5-7530u-c81n3pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook S 14 Flip TP3402VA-LZ632W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-flip-tp3402va-lz632w",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook 7 AI 14-fr0033TU (C1MN2PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-7-14-fr0033tu-ultra-5-225u-c1mn2pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Gaming V16 V3607VU-RP343W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-gaming-v16-v3607vu-rp343w-core-5-210h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook S14 S3407CA-LY096WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s14-s3407ca-ly096ws-ultra-7-255h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "14-ep1137TU (C2CY8PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-14-ep1137tu-ultra-7-155h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "245 G10 (BG5U8PT)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-245-g10-r7-7730u-bg5u8pt",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook 14 A1407CA-LY008WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-14-a1407ca-ly008ws",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL14-52M-52UU (NX.J39SV.003)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-14-al14-52m-52uu-i5-1335u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "245 G10 (B8PF8AT)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-245-g10-r5-7530u-b8pf8at",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "LOQ 15IRX9-83DV01ALVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-15irx9-i7-13650hx-83dv01alvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ZenBook 14 OLED UM3406KA-PP590WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-zenbook-14-um3406ka-pp590ws-ryzen-ai-7-350",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Gaming V16 V3607VU-RP216W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-gaming-v16-v3607vu-rp216w-core-7-240h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Modern 14 F13MG-466VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-14-f13mg-466vn-i5-1334u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ZenBook 14 OLED UM3406KA-PP113WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-zenbook-14-um3406ka-pp113ws-ryzen-ai-7-350",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Nitro V ANV15-41-R732 (NH.QPESV.005)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-anv15-41-r732-r5-6600h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 14IRH10-83K00009VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-14irh10-83k00009vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "14 DC14250-DC4C5386W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-14-dc14250-core-5-120u-dc4c5386w",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Nitro V ANV15-41-R0Y4 (NH.QPESV.004)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-propanel-anv15-41-r0y4-r7-7735hs",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ProBook 445 G10 (B73TSAT)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-probook-445-g10-r5-7530u-b73tsat",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 15ABR8-82XM00MCVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-15abr8-82xm00mcvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 5 14AKP10-83HX001KVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-5-14akp10-ryzen-ai-5-340-83hx001kvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ZenBook 14 OLED UX3405CA-PZ188WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-zenbook-14-ux3405ca-pz188ws-u7-255h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 B13VEK-2256VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-b13vek-2256vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "V15 G4 AMN-82YU016SVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-v15-g4-amn-r5-7520u-82yu016svn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Nitro V ANV15-52-59AA (NH.QZ9SV.002)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-propanel-anv15-52-59aa-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "V14 G4 IRU-83A000FQVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-v14-g4-iru-i5-13420h-83a000fqvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Gaming V16 V3607VH-RP025W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-gaming-v16-v3607vh-rp025w-core-7-240h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Nitro Lite NL16-71G-56WQ (NH.D59SV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-lite-16-nl16-71g-56wq-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire 16 A16-71M-59L5 (NX.J4YSV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-16-ai-a16-71m-59l5",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Swift Lite SFL14-51M-56HS (NX.J1HSV.002)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-swift-lite-14-ai-sfl14-51m-56hs-u5-125u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "250 G10 (B3WA8AT)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-250-g10-i5-1334u-b3wa8at",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 15IRH10-83K1002PVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-15irh10-i5-13420h-83k1002pvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL15-72P-7232 (NX.D4CSV.002)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-15-al15-72p-7232-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL16-71P-71WU (NX.D4XSV.002)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-16-ai-al16-71p-71wu-ultra-7-155h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Legion 5 15IRX10-83LY00HRVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-legion-5-15irx10-i7-13650hx-83ly00hrvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Yoga Slim 7 14IMH9-83CV00D8VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-yoga-slim-7-14imh9-core-ultra-5-125h-83cv00d8vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Yoga Slim 7 14IMH9-83CV00DKVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-yoga-slim-7-14imh9-core-ultra-7-155h-83cv00dkvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook 15 OLED A1505VA-MA505W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-15-oled-a1505va-ma505w-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "16 DC16250-DC16250-C7U161W11BLU",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-16-dc16250-core-7-150u-c7u161w11blu",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "V15 G5 IRL-83HF00BYVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-v15-g5-irl-intel-core-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 16IRH10-83K20001VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-16irh10-i7-13620h-83k20001-vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ROG Strix G16 G615JMR-S5155W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-rog-strix-16-g615jmr-s5155w-i7-14650hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15-fd0083TU (8D736PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-15-fd0083tu-i7-1355u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook 5 16-af1054TU (C1MN8PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-5-ai-16-af1054tu-ultra-7-255u-c1mn8pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "LOQ 15IRX10-83JE00PEVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-15irx10-i7-13650hx-83je00pevn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 B13UDXK-2410VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-b13udxk-2410vn-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Gaming V16 V3607VM-RP044W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-gaming-v16-v3607vm-rp044w-core-7-240h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Gaming V16 V3607VH-RP024W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-gaming-v16-v3607vh-rp024w-core-5-210h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Inspiron 5441-5MNK1",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-14-5441-x1p-64-100-5mnk1",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "EliteBook 6 G1i 14 (BQ9M9PT)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-elitebook-6-g1i-core-ultra-5-225h-bq9m9pt",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook S 14 OLED M5406WA-PP071WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s-14-oled-m5406wa-pp071ws",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ZenBook S 14 OLED UX5406SA-PV140WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-zenbook-s-14-oled-ux5406sa-pv140ws",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook 14 X1404VA-EB355W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x1404va-eb355w-core-7-150u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook S14 M3407KA-SF034WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s14-m3407ka-sf034ws-amd-ryzen-ai-5-330",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "V15 G4 IRU-83A100RHVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-v15-g4-iru-i7-13620h-83a100rhvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "V14 G5 IRL-83HD005JVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-v14-g5-irl-intel-core-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ThinkBook 14 G8 IAL-21SJ0070VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkbook-14-g8-ultra-5-225h-21sj0070vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook 5 16-af1052TU (C1MN6PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-5-ai-16-af1052tu-ultra-7-255u-c1mn6pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 15ARP10-83K70019VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-15arp10-r5-7533hs-83k70019vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 15IRH10-83K1002NVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-15irh10-i5-13420h-83k1002nvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 HX B14WEK-286VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-hx-b14wek-286vn-i5-14450hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Venture A15 AI A2HMG-003VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-venture-a15-ai-a2hmg-003vn-r7-260",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Cyborg 15 A13UC-2082VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-cyborg-15-a13uc-2082vn-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 5 14IRH10R-83J0006CVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-5-14irh10r-core-5-210h-83j0006cvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "TUF Gaming F16 FX608JH-RV039W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-tuf-gaming-f16-fx608jh-rv039w-i5-13450hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook S 16 OLED S5606CA-RI114WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s-16-oled-s5606ca-ri114ws",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "16 DC16250-71076092",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-16-dc16250-core-5-120u-71076092",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Go AG14-71M-57WR (NX.JFWSV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-go-14-ai-ag14-71m-57wr-u5-125h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Swift Go SFG14-75-5264 (NX.JNBSV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-swift-go-14-ai-sfg14-75-5264-ultra-5-226v",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15-fc0089AU (A94XWPA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-15-fc0089au-a94xwpa-r7-7730u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 B13UDXK-2411VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-b13udxk-2411vn-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "245 G10 (A20TFPT)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-245-g10-a20tfpt-r5-7530u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook 5 NGAI 16-ag1068AU (BZ7T0PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-5-16-ag1068au-amd-ai-5-340-bz7t0pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook X FlipNGAI 14-fk0092AU (BZ7P5PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-x-flip-14-fk0092au-amd-ai-5-340-bz7p5pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Legion 5 15AHP10-83M00030VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-legion-5-15ahp10-r7-260-83m00030vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ThinkPad E14 Gen 7-21T90023VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkpad-e14-gen-7-core-5-210h-21t90023vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ThinkPad E14 Gen 7-21SX005NVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkpad-e14-gen-7-u5-225u-21sx005nvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 B13VEK-252VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-b13vek-252vn-i7-13620h-16gb",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 HX B14WEK-027VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15hx-b14wek-027vn-i7-14650hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 HX B14WFK-025VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-hx-b14wfk-025vn-i7-14650hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 HX B14WFK-267VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-hx-b14wfk-267vn-i7-14650hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook 7 14-fs0042TU (C1MP3PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-7-14-fs0042tu-core-5-210h-c1mp3pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Legion 5 15IRX10-83LY004GVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-legion-5-15irx10-i7-14700hx-83ly004gvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Cyborg 15 B13WEKG-676VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-cyborg-15-b13wekg-676vn-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook 15 OLED A1505VA-MA466W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-15-oled-a1505va-ma466w-i-5-13500h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook 7 Aero NGAI 13-bg1083AU (BZ7R9PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-7-aero-13-bg1083au-ryzen-al-7-350-bz7r9pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 B13VEK-2415VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-b13vek-2415vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ZenBook 14 OLED UX3405MA-PP152W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-zenbook-14-oled-ux3405ma-pp152w-ultra-7-155h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "TUF Gaming A16 FA607NUG-RL129W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-tuf-gaming-fa607nug-rl129w-r7-7445hs",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Vivobook S 14 OLED S5406SA-PP060WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s-14-s5406sa-pp060ws",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ThinkPad E14 Gen 7-21T90025VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkpad-e14-gen-7-core-7-240h-21t90025vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 5 14Q8X9-83HL005AVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-5-14q8x9-sd-x-x1-26-100-83hl005avn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 B13UDXK-2412VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-b13udxk-2412vn-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook X Flip 14-fk0082AU (BZ7N8PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-x-flip-14-fk0082au-amd-ryzen-al-7-350-bz7n8pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "LOQ Essential 15ARP10E-83S0006QVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-15arp10e-r7-7735hs-83s0006qvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "LOQ Essential 15ARP10E-83S0006RVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-15arp10e-r7-7735hs-83s0006rvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 15ARP10-83K700EQVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-15arp10-r5-7535hs-83k700eqvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ROG Strix G16 G615JPR-S5107W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-gaming-rog-strix-g16-g615jpr-s5107w-i7-14650hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook 5 NGAI 16-ag1066AU (BZ7S9PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-5-16-ag1066au-ryzen-al-7-350-bz7s9pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook 5 NGAI 16-ag1067AU (BZ7U5PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-5-16-ag1067au-ryzen-al-7-350-bz7u5pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Legion Pro 5 16IAX10-83F3002GVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-legion-pro-5-16iax10-u9-275hx-83f3002gvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ThinkBook 16 G8 IAL-21SK0073VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkbook-16-g8-ial-ultra-7-255h-21sk0073vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Thin 15 B13VE-2824VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-thin-15-b13ve-2824vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Vector 16 HX AI A2XWHG-010VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-vector-16-hx-ai-a2xwhg-010vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Cyborg 15 AI A1VEK-245VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-cyborg-15-ai-a1vek-245vn-ultra-5-135h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Modern 15 H AI C2HMG-220VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-15-h-ai-c2hmg-220vn-ultra-7-255h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ThinkBook 14 G8 IRL-21SG007TVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkbook-14-gen-8-core-7-240h-21sg007tvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "TUF Gaming F16 FX608JPR-RV044W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-tuf-gaming-f16-fx608jpr-rv044w-i7-14650hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ROG Strix G16 G615LR-S5289W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-gaming-rog-strix-g615lr-s5289w-u7-255hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Yoga Slim 7 14ILL10-83JX0036VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-yoga-slim-7-14ill10-ultra-7-258v-83jx0036vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Yoga Slim 7 14ILL10-83JX0081VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-yoga-slim-7-14ill10-ultra-7-258v-83jx0081vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G14 GA403WM-QS051WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-gaming-rog-zephyrus-ga403wm-qs051ws-ryzen-ai-9-hx-370",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "A16 GA6H-CMHH2VN893SH",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cmhh2vn893sh-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "A16 GA6H-CMHI2VN894SH",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cmhi2vn894sh-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 5 14IAH10-83NC0016VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-5-14iah10-u5-225h-83nc0016vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Thin 15 B13UC-2081VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-thin-15-b13uc-2081vn-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Modern 15 H C13M-216VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-15-h-c13m-216vn-i7-13700h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "16 DC16251-DC6C7557W1",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-16-dc16251-core7-150u-dc6c7557w1",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Swift SF14-51-53P9 (NX.J2KSV.002)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-swift-14-ai-sf14-51-53p9-ultra5-226v",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Swift SF14-51-75VP (NX.J2KSV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-swift-14-ai-sf14-51-75vp-ultra-7-258v",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "16 Plus DB16250-DB6U5387W1",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-16-plus-db16250-ultra-5-226v-db6u5387w1",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ThinkPad E16 Gen 3-21SR002TVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkpad-e16-gen-3-arl-ultra-7-255h-21sr002tvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Modern 15 H C2RMG-287VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-15-h-c2rmg-287vn-core-7-240h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "G6X 9KG-9RC6L9KGHSIIX1VN000",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-g6x-9mg-i7-13650hx-9rc6l9kghsiix1vn000",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "G6X 9MG-9RC6L9MGHSJIX1VN000",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-g6x-9mg-i7-13650hx-9rc6l9mghsjix1vn000",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Legion 5 15IRX10-83LY00HWVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-legion-5-15irx10-i7-14700hx-83ly00hwvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 5 14IAH10-83NC001AVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-5-14iah10-u7-255h-83nc001avn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 HX B14WEK-295VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-hx-b14wek-295vn-i9-14900hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 HX B14WFK-294VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-hx-b14wfk-294vn-i9-14900hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Modern 15 H C2RMG-292VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-15-h-c2rmg-292vn-core-5-210h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Venture 14 AI A1MG-005VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-venture-14-ai-a1mg-005vn-u5-125h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "G6X 9KG-9RC6L9KGHSJIX1VN000",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-g6x-9kg-i7-13650hx-9rc6l9kghsjix1vn000",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Legion 5 15IAX10-83F0003CVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-legion-5-15iax10-u7-255hx-83f0003cvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Yoga Pro 7 14ASP9-83HN0022VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-yoga-pro-7-14asp9-83hn0022vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Nitro V 16S ANV16S-61-R9ZV (NH.QXPSV.002)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-16-ai-propanel-anv16s-61-r9zv-ryzen-ai-7-350",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire 14 A14-11M-X8FP (NX.JP3SV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-14-ai-a14-11m-x8fp-x1-26100-8c",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Swift Go SFG14-74-58FJ (NX.JF8SV.005)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-swift-go-14-ai-sfg14-74-58fj-ultra-5-225h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire 14 A14-52M-585Y (NX.J8LSV.003)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-14-ai-a14-52m-585y-ultra5-226v",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire 14 A14-52M-71YQ (NX.J8LSV.002)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-14-ai-a14-52m-71yq-ultra-7-256v",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Vector 16 HX AI A2XWIG-062VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-vector-16-hx-ai-a2xwig-062vn-u9-275hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Crosshair 16 HX AI D2XWFKG-036VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-crosshair-16-hx-d2xwfkg-036vn-u7-255hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Venture A16 AI+ A3HMG-017VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-venture-a16-ai-a3hmg-017vn-ryzen-ai-7-350",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ThinkPad T14s Gen 6-21R10008VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkpad-t14s-gen-6-ultra-7-255h-21r10008vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OMEN 16-am0129TX (BX9D1PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omen-gaming-16-am0129tx-u7-255h-bx9d1pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Legion 5 15IAX10-83F0003BVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-legion-5-15iax10-u7-255hx-83f0003bvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ThinkPad T16 Gen 4-21QE0009VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkpad-t16-gen-4-ultra-225h-21qe0009vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook Ultra Flip 14-fh0097TU (BZ7S3PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-ultra-flip-14-fh0097tu-u7-258v-bz7s3pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Legion 7 16IAX10-83KY001VVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-legion-7-16iax10-u9-275hx-83ky001vvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Legion Pro 7 16IAX10H-83F5008VVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-legion-pro-7-16iax10h-u9-275x-83f5008vvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad 5 2-in-1 14Q8X9-83GH001FVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-5-2-in-1-14q8x9-x1p-42-100-83gh001fvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Yoga Slim 7 14AKP10-83JY006PVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-yoga-slim-7-14akp10-ryzen-al-7-350-83jy006pvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 HX B14WGK-023VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-hx-b14wgk-023vn-i7-14650hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Legion Pro 7 16IAX10H-83F5008WVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-legion-pro-7-16iax10h-u9-275hx-83f5008wvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ROG Strix G16 G615LW-S5219W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-gaming-rog-strix-g615lw-s5219w-u9-275hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Swift Edge SFE14-51T-52KD (NX.JG4SV.002)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-swift-edge-14-ai-sfe14-51t-52kd-u5-228v",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook Ultra Flip 14-fh0095TU (BZ7S2PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-ultra-flip-14-fh0095tu-u9-288v-bz7s2pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ThinkPad X1 2-in-1 Gen 10-21NU004TVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkpad-x1-2-in-1-gen-10-u7-258v-21nu004tvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Cyborg 15 B2RWFKG-048VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-cyborg-15-b2rwfkg-048vn-core-7-240h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Stealth 18 HX AI A2XWIG-017VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-stealth-18-hx-ai-a2xwig-017vn-u9-275hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Vector 16 HX AI A2XWJG-470VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-vector-16-hx-ai-a2xwjg-470vn-u9-275hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Predator Helios PH18-73-98AQ (NH.QVWSV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-predator-helios-18-gaming-ai-ph18-73-98aq-u9-275hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire 5 A515-58M-951T (NX.KQ8SV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-5-a515-58m-951t-i9-13900h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL16-51P-72S2 (NX.KX0SV.002)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-16-al16-51p-72s2-i7-1255u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Swift Lite SFL14-51M-78XZ (NX.J1HSV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-swift-lite-14-ai-sfl14-51m-78xz-u7-155u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook 14 M1405NAQ-LY010W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-m1405naq-ly010w-r5-150",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15 DC15250-CPH99",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i5-1334u-cph99",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15 DC15250-DC15250-i7U161W11SLU_1TB",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i7-1355u-i7u161w11slu",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15 DC15255-X9YM41",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15255-r7-7730u-x9ym41",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Dell Inspiron 15 3520 i5 1235U/16GB/512GB",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-15-3520-i5-1235u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Dell Inspiron 15 3530 i5 1334U_N5I5530W1",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-15-3530-i5-1334un5i5530w1",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Dell Inspiron 15 3530 i7 1355U_71053721",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-15-3530-71053721",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Dell Inspiron 15 3530 i7 1355U_N3530-i7U161W11SLU-BL",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-15-3530-i7-1355un3530-i7u161w11slu-bl",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Dell Inspiron 15 3530 i7 1355U_P16WD",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-15-3530-i7-1355u-p16wd",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Dell Inspiron 15 N3530 i7 1355U_N5I7305W1",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-15-n3530-i7-1355u-n5i7305w1",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Dell Inspiron 5440 Core 7 150U (C7U165W11IBD2)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-5440-core-7-150u-c7u165w11ibd2",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Dell Latitude 3450 i5 1335U_16512W UMC",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-latitude-3450-i5-1335u-16512w-umc",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Dell Latitude 3450 i7 1355U (L3450-1355U-16512W)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-latitude-3450-i7-1355u-16512w",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Gigabyte Gaming A16 CMHI2VN893SH i7 13620H",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cmhi2vn893sh-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Gigabyte Gaming A16 CTHI3VN893SH i7 13620H",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cthi3vn893sh-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Gigabyte Gaming A16 CVHI3VNC93SH i7 13620H/16GB/512GB",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cvhi3vnc93sh-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Gigabyte Gaming G6X 9MG i7 13650HX (9RC6L9MGHSIIX1VN000)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-g6x-9mg-i7-13650hx-9rc6l9mghsiix1vn000",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "HP ProBook 4 G1ah 14 R5-220",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-probook-4-g1ah-14-r5-220",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Katana 15 B13UDXK-2213VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-b13udxk-2213vn-i5-13500h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Raider GE68 HX 14VHG-646VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-raider-ge68-hx-14vhg-646vn-i9-14900hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Stealth A16 AI+ A3XVGG-208VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-stealth-a16-ai-a3xvgg-208vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Modern 14 F13MG-027VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-14-f13mg-027vn-i5-1335u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Go AG15-72P-35X9 (NX.JRRSV.004)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-go-15-ag15-72p-35x9-i3-1305u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL15-42P-R8E6 (NX.D34SV.001)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-15-al15-42p-r8e6-r5-7430u",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Nitro V ANV15-41-R0FE (NH.QPFSV.005)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-propanel-anv15-41-r0fe-r7-7735hs",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook S14 S3407CA-LY095WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s14-s3407ca-ly095ws-ultra-5-225h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook S14 S3407VA-LY053W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s14-s3407va-ly053w-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook S16 OLED M3607GA-SH034W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s16-m3607ga-sh034w-ryzen-ai-7-445",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook S16 S3607VA-RP056W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s3607va-rp056w-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook 14 A1407CA-LY008WS",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x1407ca-ly008w-ultra-5-225h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "14 DC14250-F0FTK5",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-14-dc14250-core-5-120u-f0ftk5",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15 DC15250-71084746",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i5-1334u-71084746",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15 DC15250-i5U165W11SLU-5",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i5-1334u-i5u165w11slu-5",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15 DC15250-71084747",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i7-1355u-71084747",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "15 DC15250-CPH991",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i7-1355u-cph991",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Gigabyte Gaming A16 CVHI3VN893SH i7 13620H",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cvhi3vn893sh-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Gigabyte Gaming A16 CWHI3VN864SH i7 13620H/32GB/1TB",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cwhi3vn864sh-i7-13620h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "14-ep1176TU (C89ZQPA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-14-ep1176tu-ultra-5-125h-c89zqpa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "LOQ Essential 15ARP10E-83S000DCVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-15arp10e-ryzen-7-170-83s000dcvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "LOQ 15IRX10-83JE00PEVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-15irx10-i7-13650hx-16gb-83je00pevn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 5 14AKP10-83HX00ABVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-5-14akp10-ryzen-ai-5-330-83hx00abvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Ideapad Slim 3 16ARP10-83K80016VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-16arp10-amd-ryzen-5-7533hs-24gb-83k80016vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "ThinkBook 16 G9 IRL-21US008FVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkbook-16-g9-irl-i5-13420h-21us008fvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "V15 G5 IRL-83HF00BVVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-v15-g5-irl-i5-13420h-83hf00bvvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Crosshair 16 HX AI D2XWGKG-034VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-crosshair-16-hx-d2xwgkg-034vn-u7-255hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Cyborg 15 B2RWEKG-402VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-cyborg-15-b2rwekg-402vn-core-5-210h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Stealth A16 AI+ A3XWFG-018VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-stealth-a16-ai-a3xwfg-018vn-ryzen-ai-9-hx-370",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
         "#price-product > div:nth-child(1) > span"
       ]
     }
