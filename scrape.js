@@ -1,77 +1,19 @@
 require("dotenv").config();
-const puppeteer = require("puppeteer-extra");
-const StealthPlugin = require("puppeteer-extra-plugin-stealth");
+const puppeteer = require("puppeteer");
 const { google } = require("googleapis");
 const fs = require("fs");
 const path = require("path");
 
-puppeteer.use(StealthPlugin());
-
-// =========================
-// Hàm scrape 1 sản phẩm
-// =========================
-async function scrapeItem(page, url, selectors) {
-  try {
-    await page.goto(url, {
-      waitUntil: "networkidle2",
-      timeout: 90000
-    });
-
-    // Chờ trang render JS
-    await page.waitForTimeout(3000);
-
-    // Thử từng selector
-    for (let sel of selectors) {
-      try {
-        await page.waitForSelector(sel, { timeout: 8000 });
-        const text = await page.$eval(sel, el => el.innerText);
-        const price = text.replace(/[^\d]/g, "");
-        if (price.length > 4) return { price, source: sel };
-      } catch (e) {}
-    }
-
-    // Fallback: tự tìm giá trong toàn bộ HTML
-    const body = await page.content();
-    const match = body.match(/(\d{1,3}(\.\d{3}){1,3})/);
-    if (match) {
-      return { price: match[0].replace(/[^\d]/g, ""), source: "auto-detect" };
-    }
-
-    return { price: "N/A", source: "not-found" };
-
-  } catch (e) {
-    return { price: "N/A", source: "load-error" };
-  }
-}
-
-// =========================
-// Hàm chính
-// =========================
 async function scrape() {
   const sourcesDir = "./sources";
   const files = fs.readdirSync(sourcesDir).filter(f => f.endsWith(".json"));
 
   const browser = await puppeteer.launch({
-    headless: false,
-    args: [
-      "--no-sandbox",
-      "--disable-setuid-sandbox",
-      "--disable-blink-features=AutomationControlled"
-    ]
+    headless: false, // chạy local nên để false cho chắc
+    args: ["--no-sandbox", "--disable-setuid-sandbox"]
   });
 
   const page = await browser.newPage();
-
-  // Fake user-agent
-  await page.setUserAgent(
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-  );
-
-  // Tắt webdriver
-  await page.evaluateOnNewDocument(() => {
-    Object.defineProperty(navigator, "webdriver", { get: () => false });
-  });
-
   const results = [];
 
   for (let file of files) {
@@ -91,7 +33,27 @@ async function scrape() {
 
       console.log("Scraping:", url);
 
-      const { price, source } = await scrapeItem(page, url, item.selector);
+      let price = "N/A";
+      let source = "N/A";
+
+      try {
+        await page.goto(url, {
+          waitUntil: "networkidle2",
+          timeout: 60000
+        });
+
+        for (let sel of item.selector) {
+          try {
+            await page.waitForSelector(sel, { timeout: 5000 });
+            const text = await page.$eval(sel, el => el.innerText);
+            price = text.replace(/[^\d]/g, "");
+            source = sel;
+            break;
+          } catch (e) {}
+        }
+      } catch (e) {
+        console.log("Error loading:", url);
+      }
 
       results.push([
         model,
@@ -108,9 +70,6 @@ async function scrape() {
   await writeToSheet(results);
 }
 
-// =========================
-// Ghi Google Sheet
-// =========================
 async function writeToSheet(rows) {
   const auth = new google.auth.GoogleAuth({
     credentials: JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT),
