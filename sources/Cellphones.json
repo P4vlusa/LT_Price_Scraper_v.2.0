@@ -6,7 +6,7 @@
       "url": "https://cellphones.com.vn/laptop-lenovo-loq-15iax9e-83lk0079vn.html",
       "selector": [
         "#productDetailV2 > section > div.box-detail-product.columns.m-0 > div.box-detail-product__box-center.column > div.box-product-price > div.smember-price-label > div.is-flex.is-align-items-center > div",
-        "#productDetailV2 > section > div.box-detail-product.columns.m-0 > div.box-detail-product__box-center.column > div.box-product-price > div.box-product-price-wrapper > div.smember-price-label > div > div"
+        "#productDetailV2 > section > div.box-detail-product.columns.m-0 > div.box-detail-product__box-center.column > div.box-product-price > div.box-product-price-wrapper > div > div > div"
       ]
     }
   ]
