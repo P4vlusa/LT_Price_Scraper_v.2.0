@@ -6,18 +6,7 @@ from bs4 import BeautifulSoup
 from googleapiclient.discovery import build
 from google.oauth2.service_account import Credentials
 
-# Các domain cloud không scrape được
-BLOCKED_DOMAINS = [
-    "thegioididong.com",
-    "anphatpc.com.vn",
-    "cellphones.com.vn",
-    "hoanghamobile.com"
-]
-
-def is_blocked(url):
-    return any(domain in url for domain in BLOCKED_DOMAINS)
-
-# Tạo session để tăng tốc (reuse TCP connection)
+# Session để tăng tốc
 session = requests.Session()
 session.headers.update({
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -28,19 +17,13 @@ def fetch_price(url, selectors):
         html = session.get(url, timeout=15).text
         soup = BeautifulSoup(html, "lxml")
 
-        # thử selector
+        # Chỉ dùng selector, không auto detect
         for sel in selectors:
             el = soup.select_one(sel)
             if el:
                 price = "".join(filter(str.isdigit, el.text))
                 if len(price) > 4:
                     return price, sel
-
-        # fallback regex
-        import re
-        match = re.search(r"\d{1,3}(?:\.\d{3}){1,3}", html)
-        if match:
-            return match.group(0).replace(".", ""), "auto-detect"
 
         return "N/A", "not-found"
 
@@ -85,20 +68,13 @@ def scrape():
             url = item["url"]
             selectors = item.get("selector", [])
 
-            # Cloud skip
-            if is_cloud and is_blocked(url):
-                print("Skip (blocked on cloud):", url)
-                continue
-
             print("Scraping:", url)
             price, source = fetch_price(url, selectors)
 
             # timestamp
+            ts = time.time()
             if is_cloud:
-                # Cloud UTC → +7h
-                ts = time.time() + 7 * 3600
-            else:
-                ts = time.time()
+                ts += 7 * 3600  # UTC → GMT+7
 
             timestamp = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(ts))
 
@@ -107,10 +83,10 @@ def scrape():
                 url,
                 price,
                 source,
-                dealer,          # cột mới
+                dealer,
                 timestamp,
                 mode_label,
-                file             # file nguồn (tăng khả năng debug)
+                file
             ])
 
     write_to_sheet(results)
