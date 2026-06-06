@@ -23,7 +23,14 @@ async function scrape() {
 
     for (let item of data.urls) {
       const model = item.model || item.name || "Unknown";
-      const url = item.url;
+
+      // FIX LỖI URL BỊ RỖNG → SELECTOR BỊ ĐẨY VÀO
+      const url = (item.url && item.url.startsWith("http")) ? item.url : null;
+
+      if (!url) {
+        console.log("❌ URL không hợp lệ, bỏ qua:", item);
+        continue;
+      }
 
       console.log("Scraping:", url);
 
