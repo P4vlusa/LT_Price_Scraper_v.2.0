@@ -99,7 +99,7 @@ def scrape_cloud(tasks):
                 source,
                 t["dealer"],
                 timestamp,
-                "CLOUD"
+                "Cloud"
             ])
 
     return results
@@ -130,7 +130,7 @@ def scrape_local(tasks):
                 source,
                 t["dealer"],
                 timestamp,
-                "LOCAL-BYPASS"
+                "Local"
             ])
 
         browser.close()
