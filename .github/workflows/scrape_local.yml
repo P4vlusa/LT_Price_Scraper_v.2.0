@@ -2,7 +2,7 @@ name: Scrape Local
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 2 * * *"   # 9h sáng VN
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,8 @@ jobs:
     runs-on: self-hosted
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -18,7 +19,10 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
+          pip install playwright
+          playwright install chromium
 
       - name: Run local scraper
         env:
