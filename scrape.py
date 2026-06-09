@@ -7,19 +7,26 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from googleapiclient.discovery import build
 from google.oauth2.service_account import Credentials
 
-# Playwright chỉ dùng khi chạy LOCAL
+# ============================
+# CONFIG
+# ============================
+
+CLOUDFLARE_DEALERS = ["An Phat", "Phong Vu", "Mobile World"]
+
 USE_PLAYWRIGHT = os.getenv("CLOUD_MODE") != "1"
 if USE_PLAYWRIGHT:
     from playwright.sync_api import sync_playwright
 
-# Session cho requests (cloud)
 session = requests.Session()
 session.headers.update({
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 })
 
+# ============================
+# REQUESTS SCRAPER
+# ============================
+
 def fetch_price_requests(url, selectors):
-    """Cloud mode: dùng requests"""
     try:
         html = session.get(url, timeout=10).text
         soup = BeautifulSoup(html, "lxml")
@@ -36,8 +43,11 @@ def fetch_price_requests(url, selectors):
     except:
         return "N/A", "load-error"
 
+# ============================
+# PLAYWRIGHT SCRAPER
+# ============================
+
 def fetch_price_playwright(page, url, selectors):
-    """Local mode: dùng Playwright bypass Cloudflare"""
     try:
         page.goto(url, timeout=60000, wait_until="networkidle")
 
@@ -57,6 +67,10 @@ def fetch_price_playwright(page, url, selectors):
     except:
         return "N/A", "load-error"
 
+# ============================
+# WRITE TO GOOGLE SHEET
+# ============================
+
 def write_to_sheet(rows):
     creds = Credentials.from_service_account_info(
         json.loads(os.getenv("GOOGLE_SERVICE_ACCOUNT")),
@@ -69,13 +83,16 @@ def write_to_sheet(rows):
 
     service.spreadsheets().values().append(
         spreadsheetId=os.getenv("GOOGLE_SHEET_ID"),
-        range="Log!A:G",
+        range="Log!A:H",
         valueInputOption="RAW",
         body=body
     ).execute()
 
-def scrape_cloud(tasks):
-    """Cloud mode: requests + multi-thread"""
+# ============================
+# REQUESTS MODE
+# ============================
+
+def scrape_requests(tasks):
     results = []
     MAX_WORKERS = 100
 
@@ -89,8 +106,9 @@ def scrape_cloud(tasks):
             t = futures[future]
             price, source = future.result()
 
-            ts = time.time() + 7 * 3600  # UTC → GMT+7
-            timestamp = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(ts))
+            ts = time.time() + 7 * 3600
+            date = time.strftime("%Y-%m-%d", time.localtime(ts))
+            hour = time.strftime("%H:%M:%S", time.localtime(ts))
 
             results.append([
                 t["model"],
@@ -98,20 +116,24 @@ def scrape_cloud(tasks):
                 price,
                 source,
                 t["dealer"],
-                timestamp,
+                date,
+                hour,
                 "Cloud"
             ])
 
     return results
 
-def scrape_local(tasks):
-    """Local mode: Playwright bypass Cloudflare"""
+# ============================
+# PLAYWRIGHT MODE
+# ============================
+
+def scrape_playwright(tasks):
     results = []
 
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=True)
         context = browser.new_context()
-        pages = [context.new_page() for _ in range(10)]  # 10 tab song song
+        pages = [context.new_page() for _ in range(10)]
 
         idx = 0
         for t in tasks:
@@ -120,8 +142,9 @@ def scrape_local(tasks):
 
             price, source = fetch_price_playwright(page, t["url"], t["selectors"])
 
-            ts = time.time()  # local = GMT+7 sẵn
-            timestamp = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(ts))
+            ts = time.time()
+            date = time.strftime("%Y-%m-%d", time.localtime(ts))
+            hour = time.strftime("%H:%M:%S", time.localtime(ts))
 
             results.append([
                 t["model"],
@@ -129,7 +152,8 @@ def scrape_local(tasks):
                 price,
                 source,
                 t["dealer"],
-                timestamp,
+                date,
+                hour,
                 "Local"
             ])
 
@@ -137,12 +161,15 @@ def scrape_local(tasks):
 
     return results
 
+# ============================
+# MAIN
+# ============================
+
 def scrape():
     is_cloud = os.getenv("CLOUD_MODE") == "1"
 
     tasks = []
 
-    # Load toàn bộ nguồn
     for file in os.listdir("./sources"):
         if not file.endswith(".json"):
             continue
@@ -160,10 +187,18 @@ def scrape():
 
     print("Total tasks:", len(tasks))
 
-    if is_cloud:
-        results = scrape_cloud(tasks)
-    else:
-        results = scrape_local(tasks)
+    cloudflare_tasks = [t for t in tasks if t["dealer"] in CLOUDFLARE_DEALERS]
+    normal_tasks = [t for t in tasks if t["dealer"] not in CLOUDFLARE_DEALERS]
+
+    results = []
+
+    if normal_tasks:
+        print("Running requests for normal dealers:", len(normal_tasks))
+        results += scrape_requests(normal_tasks)
+
+    if cloudflare_tasks and not is_cloud:
+        print("Running Playwright for Cloudflare dealers:", len(cloudflare_tasks))
+        results += scrape_playwright(cloudflare_tasks)
 
     write_to_sheet(results)
     print("DONE:", len(results), "rows")
