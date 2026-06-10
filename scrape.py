@@ -1,6 +1,7 @@
 import os
 import json
 import time
+import asyncio
 import requests
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -15,7 +16,7 @@ CLOUDFLARE_DEALERS = ["An Phat", "Phong Vu", "Mobile World"]
 
 USE_PLAYWRIGHT = os.getenv("CLOUD_MODE") != "1"
 if USE_PLAYWRIGHT:
-    from playwright.sync_api import sync_playwright
+    from playwright.async_api import async_playwright
 
 session = requests.Session()
 session.headers.update({
@@ -44,28 +45,74 @@ def fetch_price_requests(url, selectors):
         return "N/A", "load-error"
 
 # ============================
-# PLAYWRIGHT SCRAPER
+# PLAYWRIGHT ASYNC SCRAPER
 # ============================
 
-def fetch_price_playwright(page, url, selectors):
+async def fetch_price_playwright_async(context, task):
+    page = await context.new_page()
     try:
-        page.goto(url, timeout=60000, wait_until="domcontentloaded")
+        await page.goto(task["url"], timeout=60000, wait_until="domcontentloaded")
 
-        for sel in selectors:
+        for sel in task["selectors"]:
             try:
                 el = page.locator(sel).first
-                if el.count() > 0:
-                    text = el.inner_text(timeout=5000)
+                if await el.count() > 0:
+                    text = await el.inner_text(timeout=5000)
                     price = "".join(filter(str.isdigit, text))
                     if len(price) > 4:
-                        return price, sel
+                        await page.close()
+                        return task, price, sel
             except:
                 pass
 
-        return "N/A", "not-found"
+        await page.close()
+        return task, "N/A", "not-found"
 
     except:
-        return "N/A", "load-error"
+        await page.close()
+        return task, "N/A", "load-error"
+
+
+async def scrape_playwright_async(tasks):
+    results = []
+    MAX_TABS = 40
+
+    async with async_playwright() as pw:
+        browser = await pw.chromium.launch(headless=True)
+        context = await browser.new_context()
+
+        sem = asyncio.Semaphore(MAX_TABS)
+
+        async def worker(task):
+            async with sem:
+                return await fetch_price_playwright_async(context, task)
+
+        all_tasks = [worker(t) for t in tasks]
+        done = await asyncio.gather(*all_tasks)
+
+        for task, price, source in done:
+            ts = time.time()
+            date = time.strftime("%Y-%m-%d", time.localtime(ts))
+            hour = time.strftime("%H:%M:%S", time.localtime(ts))
+
+            results.append([
+                task["model"],
+                task["url"],
+                price,
+                source,
+                task["dealer"],
+                date,
+                hour,
+                "Local"
+            ])
+
+        await browser.close()
+
+    return results
+
+
+def scrape_playwright(tasks):
+    return asyncio.run(scrape_playwright_async(tasks))
 
 # ============================
 # WRITE TO GOOGLE SHEET
@@ -124,48 +171,6 @@ def scrape_requests(tasks):
     return results
 
 # ============================
-# PLAYWRIGHT MODE (40 TABS)
-# ============================
-
-def scrape_playwright(tasks):
-    results = []
-    MAX_TABS = 40  # tăng tốc mạnh
-
-    with sync_playwright() as pw:
-        browser = pw.chromium.launch(headless=True)
-        context = browser.new_context()
-
-        def worker(task):
-            page = context.new_page()
-            price, source = fetch_price_playwright(page, task["url"], task["selectors"])
-            page.close()
-
-            ts = time.time()
-            date = time.strftime("%Y-%m-%d", time.localtime(ts))
-            hour = time.strftime("%H:%M:%S", time.localtime(ts))
-
-            return [
-                task["model"],
-                task["url"],
-                price,
-                source,
-                task["dealer"],
-                date,
-                hour,
-                "Local"
-            ]
-
-        with ThreadPoolExecutor(max_workers=MAX_TABS) as executor:
-            futures = {executor.submit(worker, t): t for t in tasks}
-
-            for future in as_completed(futures):
-                results.append(future.result())
-
-        browser.close()
-
-    return results
-
-# ============================
 # MAIN
 # ============================
 
@@ -200,12 +205,13 @@ def scrape():
         print("Running requests for normal dealers:", len(normal_tasks))
         results += scrape_requests(normal_tasks)
 
-    if cloudflare_tasks and not is_cloud:
+    if cloudflare_tasks and not is_cloud and USE_PLAYWRIGHT:
         print("Running Playwright for Cloudflare dealers:", len(cloudflare_tasks))
         results += scrape_playwright(cloudflare_tasks)
 
     write_to_sheet(results)
     print("DONE:", len(results), "rows")
+
 
 if __name__ == "__main__":
     scrape()
