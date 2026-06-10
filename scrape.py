@@ -49,7 +49,7 @@ def fetch_price_requests(url, selectors):
 
 def fetch_price_playwright(page, url, selectors):
     try:
-        page.goto(url, timeout=60000, wait_until="networkidle")
+        page.goto(url, timeout=60000, wait_until="domcontentloaded")
 
         for sel in selectors:
             try:
@@ -124,38 +124,42 @@ def scrape_requests(tasks):
     return results
 
 # ============================
-# PLAYWRIGHT MODE
+# PLAYWRIGHT MODE (40 TABS)
 # ============================
 
 def scrape_playwright(tasks):
     results = []
+    MAX_TABS = 40  # tăng tốc mạnh
 
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=True)
         context = browser.new_context()
-        pages = [context.new_page() for _ in range(10)]
 
-        idx = 0
-        for t in tasks:
-            page = pages[idx % len(pages)]
-            idx += 1
-
-            price, source = fetch_price_playwright(page, t["url"], t["selectors"])
+        def worker(task):
+            page = context.new_page()
+            price, source = fetch_price_playwright(page, task["url"], task["selectors"])
+            page.close()
 
             ts = time.time()
             date = time.strftime("%Y-%m-%d", time.localtime(ts))
             hour = time.strftime("%H:%M:%S", time.localtime(ts))
 
-            results.append([
-                t["model"],
-                t["url"],
+            return [
+                task["model"],
+                task["url"],
                 price,
                 source,
-                t["dealer"],
+                task["dealer"],
                 date,
                 hour,
                 "Local"
-            ])
+            ]
+
+        with ThreadPoolExecutor(max_workers=MAX_TABS) as executor:
+            futures = {executor.submit(worker, t): t for t in tasks}
+
+            for future in as_completed(futures):
+                results.append(future.result())
 
         browser.close()
 
