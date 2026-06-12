@@ -12,7 +12,7 @@ from google.oauth2.service_account import Credentials
 # CONFIG
 # ============================
 
-CLOUDFLARE_DEALERS = ["Mobile World","Phong Vu","An Phat"]
+CLOUDFLARE_DEALERS = ["FRT","Mobile World","Phong Vu","An Phat","Phuc Anh"]
 
 USE_PLAYWRIGHT = os.getenv("CLOUD_MODE") != "1"
 if USE_PLAYWRIGHT:
