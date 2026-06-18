@@ -9,13 +9,6 @@
       ]
     },
     {
-      "model": "IdeaPad Slim 3 14IRH10-83K00008VN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-3-14irh10-83k00008vn-intel-core-i5-13420h-16gb-14-inch-wuxga",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "Victus 15-fa2731TX (B85LNPA)",
       "url": "https://laptop88.vn/new-100-laptop-hp-victus-15-fa1093dx-7n3s2ua-intel-core-i5-13420h-rtx-3050-6gb-15.6-inch-full-hd-144hz.html",
       "selector": [
@@ -37,29 +30,8 @@
       ]
     },
     {
-      "model": "15 DC15250-DC5I5357W1",
-      "url": "https://laptop88.vn/new-100-laptop-dell-15-dc15250-dc5i5357w1-intel-core-i5-1334u-156-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "Vivobook 15 X1502VA-BQ886W",
       "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-15-x1502va-bq886w-intel-core-i7-13620h",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "VivoBook 14 X1405VA-LY623W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-14-x1405va-ly623w-intel-core-i5-13420h-16gb-ddr4-14-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "15 DC15250-DC15250-i5U165W11SLU",
-      "url": "https://laptop88.vn/new-100-laptop-dell-15-dc15250-i5u165w11slu-5-2025-intel-core-i5-1334u-16gb-512gb-156-inch-full-hd",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -79,36 +51,8 @@
       ]
     },
     {
-      "model": "15 DC15250-DC15250-i7U161W11SLU",
-      "url": "https://laptop88.vn/new-100-laptop-dell-15-dc15250-i7u161w11slu-intel-core-i7-1355u-16gb-1tb-156-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "VivoBook S14 S3407VA-LY146W",
       "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s14-s3407va-ly146w-intel-core-5-210h-14-inch-wuxga",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Inspiron 5440-5463BLK",
-      "url": "https://laptop88.vn/new-100-laptop-dell-inspiron-14-5430-r1605s-intel-core-i5-1340p-14-inch-full-hd.html",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "14-ep0112TU (8C5L1PA)",
-      "url": "https://laptop88.vn/new-100-laptop-hp-14s-ep0112tu-8c5l1pa-intel-core-i5-1335u-16gb-512gb-14-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "IdeaPad Slim 3 16IRH10-83K20002VN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-3-16irh10-83k20002vn-intel-core-i5-13420h-16gb-16-inch-full-hd",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -123,13 +67,6 @@
     {
       "model": "Aspire Lite AL14-71P-55P9  (NX.D7USV.001)",
       "url": "https://laptop88.vn/new-100-laptop-acer-aspire-lite-14-al14-71p-55p9-nxd7usv001-intel-core-i5-13500h-16gb-ram-14-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Aspire Lite AL15-72P-581V (NX.D4CSV.001)",
-      "url": "https://laptop88.vn/new-100-laptop-acer-aspire-lite-15-al15-72p-581v-nxd4csv001-intel-core-i5-13500h-16gb-ram-156-full-hd",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -184,13 +121,6 @@
       ]
     },
     {
-      "model": "VivoBook 14 X1404VA-EB509W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-14-x1404va-nk124w-i3-1315u-14-inch-full-hd.html",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "IdeaPad Slim 5 15ARP10-83J3001DVN",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-5-oled-15arp10-83j3002svn-83j3001dvn-amd-ryzen-7-7735hs-15-1-inch-2k-oled-100-dci-p3-165hz",
       "selector": [
@@ -205,13 +135,6 @@
       ]
     },
     {
-      "model": "IdeaPad Slim 3 14IRH10-83K0000BVN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-3-14irh10-83k0000bvn-intel-core-i5-13420h-16gb-14-inch-wuxga-oled",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "IdeaPad Slim 5 14AKP10-83HX001JVN",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-5-14akp10-83hx001jvn-ryzen-ai-7-350-32gb-1tb-amd-radeon-860m-14-oled",
       "selector": [
@@ -221,13 +144,6 @@
     {
       "model": "Victus 15-fb3115AX (BX9C9PA)",
       "url": "https://laptop88.vn/new-100-laptop-hp-victus-15-fb3115ax-bx9c9pa-amd-ryzen-7-7445hs-rtx-4050-156-inch-full-hd-144hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Inspiron 3530-N3530-i7U161W11SLU",
-      "url": "https://laptop88.vn/new-100-laptop-dell-inspiron-15-3530-n3530-i7u161w11slu-intel-core-i7-1355u-156-inch-full-hd",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -254,13 +170,6 @@
       ]
     },
     {
-      "model": "ZenBook 14 OLED UX3405CA-PZ187WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-zenbook-14-oled-ux3405ca-pz187ws-intel-core-ultra-5-225h-16gb-14-inch-3k-oled-100-dci-p3",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "LOQ 15ARP9-83JC00LVVN",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-loq-15arp9-83jc0000us-amd-ryzen-7-7435hs-rtx-4060-16gb-15.6-inch-full-hd-100-srgb-144hz.html",
       "selector": [
@@ -268,22 +177,8 @@
       ]
     },
     {
-      "model": "15-fd0306TU (A2NL7PA)",
-      "url": "https://laptop88.vn/new-100-laptop-hp-15-fd0306tu-a2nl7pa-intel-core-i3-1315u-156-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "OmniBook 5 16-af1046TU (BZ7Q8PA)",
       "url": "https://laptop88.vn/new-100-laptop-hp-omnibook-5-16-af1046tu-bz7q8pa-intel-ultra-5-225u-16-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Thin 15 B13UC-1411VN",
-      "url": "https://laptop88.vn/new-100-laptop-msi-thin-15-b13uc-1411vn-intel-core-i7-13620h-rtx-3050-15-6-inch-full-hd-144hz",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -331,20 +226,6 @@
       ]
     },
     {
-      "model": "ZenBook 14 OLED UM3406KA-PP590WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-zenbook-14-um3406ka-pp590ws-amd-ryzen-ai-7-350-32gb-14-inch-3k-120hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Gaming V16 V3607VU-RP216W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-gaming-v16-v3607vu-rp216w-intel-core-7-240h-rtx-4050-16-inch-144hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "ThinkBook 14 G8 IRL-21SG007MVA",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-thinkbook-14-gen-8-irl-21sg007mva-intel-core-5-210h-16gb-512gb-14-inch-wuxga",
       "selector": [
@@ -366,13 +247,6 @@
       ]
     },
     {
-      "model": "ZenBook 14 OLED UM3406KA-PP113WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-zenbook-14-um3406ka-pp113ws-amd-ryzen-ai-7-350-16gb-lpddr5x-14-inch-3k-120hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "14 DC14250-DC4C5386W",
       "url": "https://laptop88.vn/new-100-laptop-dell-14-dc14250-dc4c5386w-intel-core-5-120u-16gb-ddr5-14-inch-full-hd",
       "selector": [
@@ -387,13 +261,6 @@
       ]
     },
     {
-      "model": "IdeaPad Slim 3 15ABR8-82XM00MCVN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-3-15abr8-82xm00mcvn-ryzen-7-5825u-156-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "LOQ 15AHP10-83JG0047VN",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-loq-15ahp10-83jg0047vn-amd-ryzen-7-250-rtx-5050-15-inch-full-hd-144hz-100-srgb",
       "selector": [
@@ -401,22 +268,8 @@
       ]
     },
     {
-      "model": "ZenBook 14 OLED UX3405CA-PZ188WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-zenbook-14-ux3405ca-pz188ws-ultra-7-255h-32gb-14-inch-3k-120hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "TUF Gaming F16 FX608JMR-RV048W",
       "url": "https://laptop88.vn/new-100-laptop-asus-tuf-gaming-f16-fx608jmr-rv048w-intel-i7-14650hx-rtx-5060-8gb-16-inch-wuxga-165hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ExpertBook P1 P1403CVA-i308-50W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p1-p1403cva-i308-50w-intel-core-i3-1315u-14-inch-full-hd",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -436,13 +289,6 @@
       ]
     },
     {
-      "model": "VivoBook S16 OLED S3607CA-SH083WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s16-s3607ca-sh083ws-ultra-7-255h-16gb-512gb-16-inch-fhd-oled",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "Nitro V ANV15-52-59AA (NH.QZ9SV.002)",
       "url": "https://laptop88.vn/new-100-laptop-gaming-acer-nitro-v-propanel-anv15-52-59aa-core-i5-13420h-rtx-5050-156-inch-fhd-180hz-100srgb",
       "selector": [
@@ -452,27 +298,6 @@
     {
       "model": "ZenBook 14 OLED UX3407QA-QD299WS",
       "url": "https://laptop88.vn/new-100-laptop-asus-zenbook-a14-ux3407qa-qd299ws-snapdragon-x-x1-26-100-16gb-ssd-512gb-14-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Gaming V16 V3607VH-RP025W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-gaming-v16-v3607vh-rp025w-intel-core-7-240h-rtx-5050-8gb-16-inch-144hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Nitro Lite NL16-71G-56WQ (NH.D59SV.001)",
-      "url": "https://laptop88.vn/new-100-laptop-gaming-acer-nitro-nl16-71g-56wq-intel-core-i5-13420h-rtx-3050-6gb",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Aspire Lite AL15-72P-7232 (NX.D4CSV.002)",
-      "url": "https://laptop88.vn/new-100-laptop-acer-aspire-lite-15-al15-72p-7232-nxd4csv002-intel-core-i7-13620h-156-full-hd",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -527,13 +352,6 @@
       ]
     },
     {
-      "model": "VivoBook S16 OLED S3607CA-SH082WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s16-s3607ca-sh082ws-ultra-5-225h-16gb-512gb-16-inch-fhd-oled",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "ROG Strix G16 G615JMR-S5155W",
       "url": "https://laptop88.vn/new-100-laptop-gaming-asus-rog-strix-g16-g615jmr-s5155w-intel-i7-14650hx-32gb-1tb-rtx-5060-16-inch-240hz",
       "selector": [
@@ -543,20 +361,6 @@
     {
       "model": "ThinkBook 16 G8 IRL-21SH0093VA",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-thinkbook-16-g8-irl-21sh0093va-intel-core-5-210h-16gb-512gb-16-inch-wuxga",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "15-fd0083TU (8D736PA)",
-      "url": "https://laptop88.vn/new-100-laptop-hp-15-fd0083tu-8d736pa-intel-core-i71355u-156-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "15-fd0083TU (8D736PA)",
-      "url": "https://laptop88.vn/new-100-laptop-hp-15-fd0083tu-8d736pa-intel-core-i7-1355u-16gb-512gb-15-6-inch-full-hd",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -585,27 +389,6 @@
     {
       "model": "ExpertBook B1 BM1403CDA-S60974W",
       "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-bm1-bm1403cda-s60974w-ryzen-5-7535hs-14-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Gaming V16 V3607VM-RP044W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-gaming-v16-v3607vm-rp044w-core-7-240h-rtx-5060-16-inch-144hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Gaming V16 V3607VH-RP024W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-gaming-v16-v3607vh-rp024w-core-5-210h-rtx-5050-6gb-16-inch-144hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ExpertBook P3 P3605CVA-PL0042W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p3-p3605cva-pl0042w-intel-i5-13420h-16-inch-wqxga",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -702,36 +485,8 @@
       ]
     },
     {
-      "model": "ThinkPad E14 Gen 7-21T90021VA",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-thinkpad-e14-gen-721t90021va-intel-core-7-240h-16gb-512gb-14-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "VivoBook S 16 OLED S5606CA-RI114WS",
       "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s16-s5606ca-ri114ws-intel-core-ultra-5-225h-16gb-512tb-ssd-16-inch-3k",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ExpertBook P1 P1403CVA-i308256-63W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p1-p1403cva-i308256-63w-intel-core-i3-1315u-14-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "VivoBook S14 OLED S3407QA-SF043WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s14-s3407qa-snapdragon-x-x1-26-100-16gb-lpddr5x-14-inch-25k-100srgb",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "IdeaPad Flex 5 14ABR8-82XX00FVVN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-flex-5-14abr8-82xx00fvvn-amd-ryzen-5-5625u-16gb-512gb-14-inch-wuxga-touch",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -746,34 +501,6 @@
     {
       "model": "ExpertBook P1 P1403CVA-i716-50W",
       "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p1-p1403cva-i716-50w-intel-core-i7-13620h-14-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "IdeaPad Flex 5 14ABR8-82XX00DMVN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-flex-5-14abr8-82xx00dmvn-ryzen-7-7430u-16gb-14-inch-wuxga",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "VivoBook S16 OLED S3607QA-SH040WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s16-s3607qa-sh040ws-snapdragon-x-x1-26-100-16gb-lpddr5x-16-inch-wuxga",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Inspiron 5440-N4I5211W1",
-      "url": "https://laptop88.vn/new-100-laptop-dell-inspiron-5440-n4i5211w1-intel-core-5-120u-16gb-14-inch-full-hd.html",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Katana 15 HX B14WFK-025VN",
-      "url": "https://laptop88.vn/new-100-laptop-msi-katana-15-hx-b14wfk-025vn-intel-i7-14650hx-vga-rtx-5060-8gb-156-qhd-165hz",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -800,13 +527,6 @@
       ]
     },
     {
-      "model": "ThinkPad E16 Gen 3-21TF003QVA",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-thinkpad-e16-gen-3-21tf003qva-core-5-210h-16gb-512gb-16-inch-wuxga",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "Yoga Slim 7 14ILL10-83JX0086VN",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-slim-7-14ill10-83jx0086vn-intel-core-ultra-5-226v-16gb-512gb-14-inch-28k-oled",
       "selector": [
@@ -814,22 +534,8 @@
       ]
     },
     {
-      "model": "VivoBook S16 OLED S5606CA-RI171WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s16-s5606ca-ri171ws-ultra-7-255h-16-inch-3k",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "ThinkBook 14 G8 IRL-21SG007PVA",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-thinkbook-14-g8-irl-21sg007pva-intel-core-7-240h-16gb-14-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ThinkBook 14 G8 IAL-21SJ0072VN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-thinkbook-14-gen-8-21sj0072vn-intel-core-ultra-7-255h-16gb-512gb",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -851,13 +557,6 @@
     {
       "model": "IdeaPad Slim 3 14ARP10-83K6005VVN",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-3-14arp10-83k6005vvn-83k6005uvn-amd-ryzen-5-7535hs-16gb-14-inch-wuxga",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "IdeaPad Slim 3 15ARP10-83K700EPVN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-3-15arp10-83k700epvn-ryzen-5-7535hs-16gb-512gb-153-inch-wuxga",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -891,29 +590,8 @@
       ]
     },
     {
-      "model": "LOQ Essential 15IRX11-83SC003RVN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-loq-essential-15irx11-83sc003rvn-intel-i5-13450hx-ram-16gb-ssd-512gb-rtx-5050-156-inch-full-hd-144hz-100-srgb",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ExpertBook P3 P3405CVA-NZ0077W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p3-p3405cva-nz0077w-intel-i7-13620h-14-inch-wqxga",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "Vivobook S14 S5406SA-PP168WS",
       "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s-14-oled-s5406sa-pp168w-intel-core-ultra-5-226v-16gb-14-inch-3k-oled-100-dci-p3",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ROG Strix G16 G615JPR-S5107W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-rog-strix-g16-g615jpr-s5107w-intel-i7-14650hx-16gb-1tb-rtx-5070-16-inch-240hz",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -947,29 +625,8 @@
       ]
     },
     {
-      "model": "ROG Strix G16 G615LR-S5289W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-rog-strix-g16-g615lr-s5289w-intel-ultra-7-255hx-rtx-5070ti-16-inch-wqxga-240hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Yoga Slim 7 14ILL10-83JX0036VN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-slim-7-14ill10-2025-intel-core-ultra-7-258v-32gb-14-inch-28k-oled",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "ROG Zephyrus G14 GA403WM-QS051WS",
       "url": "https://laptop88.vn/new-100-laptop-asus-rog-zephyrus-g14-ga403wm-qs051ws-ryzen-ai-9-hx-370-rtx-5060-14-inch-3k-oled",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ZenBook Duo OLED UX8406CA-PZ109WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-zenbook-duo-oled-ux8406ca-pz109ws-intel-core-ultra-9-285h-32gb-14-inch-3k-100-dci-p3",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -982,20 +639,6 @@
       ]
     },
     {
-      "model": "14 DC14255-DC4AI5278W1",
-      "url": "https://laptop88.vn/new-100-laptop-dell-14-dc14255-dc4ai5278w1-amd-ryzen-ai-5-330-16gb-ddr5-14-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "16 DC16251-DC6C7557W1",
-      "url": "https://laptop88.vn/new-100-laptop-dell-16-dc16251-dc6c7557w1-intel-core-7-150u-16gb-1tb-mx-570a-16-inch-full-hd-120hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "A16 GA6H-CMHH2VN893SH",
       "url": "https://laptop88.vn/new-100-laptop-gaming-gigabyte-a16-cmhh2vn893sh-intel-core-i5-13420h-rtx-4050-16-inch-165hz",
       "selector": [
@@ -1003,43 +646,8 @@
       ]
     },
     {
-      "model": "A16 GA6H-CMHI2VN894SH",
-      "url": "https://laptop88.vn/new-100-laptop-gaming-gigabyte-a16-cmhi2vn894sh-intel-core-i7-13620h-rtx-4050-16-inch-165hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Legion 5 15IRX10-83LY004JVN",
-      "url": "https://laptop88.vn/new-100-lenovo-legion-5-15irx10-83ly004jvn-intel-core-i7-14700hx-rtx-5060-15-inch-wqxga-165hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ROG Zephyrus G16 GU605CM-QR078W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-rog-zephyrus-g16-gu605cm-qr078w-u9-285h-32gb-1tb-16-inch-wqxga-240hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Gaming V16 K3607VU-RP280W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-gaming-v16-k3607vu-rp280w-intel-core-5-210h-rtx-4050-16-inch-144hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "ExpertBook P5 P5405CSA-NZ0016W",
       "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p5-p5405csa-nz0016w-intel-ultra-5-14-inch-wqxga",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ExpertBook P3 P3605CVA-PL0047W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p3-p3605cva-pl0047w-intel-i7-13620h-16-inch-wqxga",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -1087,20 +695,6 @@
       ]
     },
     {
-      "model": "ExpertBook P1 P1503CVA-i716-63WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p1-p1503cva-i716-63ws-intel-core-i7-13620h-14-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ROG Strix G16 G615JHR-S5069W",
-      "url": "https://laptop88.vn/new-100-laptop-gaming-asus-rog-strix-g16-g615jmr-s5155w-intel-i7-14650hx-32gb-1tb-rtx-5060-16-inch-240hz-1",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "IdeaPad Slim 5 14IAH10-83NC001AVN",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-5-14iah10-83nc001avn-ultra-7-255h-24gb-1tb-14-inch-oled",
       "selector": [
@@ -1108,85 +702,8 @@
       ]
     },
     {
-      "model": "Legion 5 15AHP10-83M0002YVN",
-      "url": "https://laptop88.vn/new-100-lenovo-legion-5-15ahp10-83m0002yvn-amd-ryzen-7-260-16gb-rtx-5050-15-inch-oled-wqxga-165hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ThinkPad E16 Gen 2-21MA004GVA",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-thinkpad-e16-gen-2-21ma004gva-intel-ultra-7-155u-16gb-1tb-16-inch-wuxga",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Yoga 7 2-in-1 14ILL10-83JQ0093VN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-7-2-in-1-14ill10-83jq0093vn-intel-core-ultra-7-258v-32gb-1tb-14-inch-2-8k-oled",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ExpertBook P5 P5405CSA-NZ0442WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p5-p5405csa-nz0442ws-intel-ultra-7-258v-32gb-1tb-14-inch-wqxga",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "Yoga Pro 7 14ASP9-83HN0022VN",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-pro-7-14asp9-83hn0022vn-amd-ryzen-ai-9-365-32gb-1tb-amd-radeon-880m-14-5inch-2-8k-oled",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Nitro V 16S ANV16S-61-R9ZV (NH.QXPSV.002)",
-      "url": "https://laptop88.vn/new-100-laptop-gaming-acer-nitro-v-16-ai-propanel-anv16s-61-r9zv-ryzen-7-ai-350-32gb-1tb-rtx-5060-16-inch-2k-180hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ZenBook S 16 OLED UM5606KA-RK127WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-zenbook-s16-um5606ka-rk127ws-ryzen-ai-7-350-24gb-ddr5-ssd-1tb-16-inch-3k-oled",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ROG Zephyrus G14 GA403WR-QS156WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-rog-zephyrus-ga403wr-qs156ws-ryzen-ai-9-hx-370-32gb-1tb-14-inch-3k-120hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Crosshair 16 HX AI D2XWFKG-036VN",
-      "url": "https://laptop88.vn/new-100-laptop-msi-crosshair-16-hx-ai-d2xwfkg-036vn-ultra-7-255hx-rtx-5060-8gb-16-inch-qhd-240hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Crosshair 16 HX AI D2XWFKG-070VN",
-      "url": "https://laptop88.vn/new-100-laptop-msi-crosshair-16-hx-ai-d2xwfkg-070vn-ultra-9-275hx-rtx-5060-8gb-16-inch-qhd-240hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Crosshair 16 HX AI D2XWGKG-034VN",
-      "url": "https://laptop88.vn/new-100-laptop-msi-crosshair-16-hx-ai-d2xwgkg-034vn-ultra-7-255hx-rtx-5070-8gb-16-inch-qhd-240hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Legion 5 15IAX10-83F0003BVN",
-      "url": "https://laptop88.vn/new-100-laptop-gaming-lenovo-legion-5-16irx9-83f0003bvn-ultra-7-255hx-32gb-1tb-rtx-5070-16-inch-165hz",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -1227,13 +744,6 @@
       ]
     },
     {
-      "model": "Legion Pro 7 16IAX10H-83F5008VVN",
-      "url": "https://laptop88.vn/new-100-laptop-gaming-lenovo-legion-pro-7-16iax10h-83f5008vvn-ultra-9-275x-rtx-5070ti-16-inch-wqxga-240hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "Prestige 13 AI Evo A1MG-241VN",
       "url": "https://laptop88.vn/new-100-laptop-msi-prestige-13-ai-evo-a1mg-241vn-ultra-5-125h-16gb-512gb-133-inch-28k-oled",
       "selector": [
@@ -1243,13 +753,6 @@
     {
       "model": "V15 G4 IRU-83A100RJVN",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-v15-gen-4-iru-83a100rjvn-intel-core-i7-13620h-156-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Yoga Slim 7 14AKP10-83JY006PVN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-slim-7-14akp10-83jy006pvn-amd-ryzen-ai-7-350-32gb-1tb-14-inch-28k-oled",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -1318,13 +821,6 @@
       ]
     },
     {
-      "model": "Predator Helios Neo PHN16S-71-95MS (NH.QX7SV.002)",
-      "url": "https://laptop88.vn/new-100-laptop-acer-predator-helios-neo-16s-ai-phn16s-71-95ms-intel-core-ultra-9-275hx-rtx-5070ti-16-2k-oled-240hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "Yoga Pro 7 14IAH10-83KF001JVN",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-pro-7-14iah10-83kf001jvn-ultra-9-285h-32gb-1tb-145-inch-3k-oled",
       "selector": [
@@ -1348,13 +844,6 @@
     {
       "model": "Yoga Book 9 14IAH10-83KJ001QVN",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-book-9-14iah10-83kj001qvn-ultra-9-285h-32gb-1tb-14-inch-28k-oled",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Predator Helios PH18-73-98AQ (NH.QVWSV.001)",
-      "url": "https://laptop88.vn/new-100-laptop-acer-predator-helios-18-ai-ph18-73-98aq-intel-core-ultra-9-275hx-192gb-6gb-rtx-5090-18-inch-4k",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -1465,13 +954,6 @@
       ]
     },
     {
-      "model": "ROG Zephyrus G16 GU605CR-QR265WS",
-      "url": "https://laptop88.vn/new-100-laptop-gaming-asus-rog-zephyrus-g16-gu605cr-qr265ws-core-ultra-9-285h-32gb-1tb-rtx-5070-ti-16-inch-240hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "Pro 13 Plus PB13250-PB13250-236V-16512W",
       "url": "https://laptop88.vn/new-100-laptop-dell-pro-13-plus-pb13250-236v-16512w-2025-ultra-5-236v-16gb-512gb-133-inch-full-hd",
       "selector": [
@@ -1500,13 +982,6 @@
       ]
     },
     {
-      "model": "ZenBook 14 UX3405CA-ST629W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-zenbook-14-ux3405ca-st629w-ultra-7-255h-32gb-1tb-14-inch-3k-120hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "ZenBook 14 UX3405CA-ST628W",
       "url": "https://laptop88.vn/new-100-laptop-asus-zenbook-14-ux3405ca-st628w-ultra-5-255h-16gb-512gb-14-inch-3k-120hz",
       "selector": [
@@ -1516,20 +991,6 @@
     {
       "model": "Zenbook 14 OLED UM3406GA-QD073WS",
       "url": "https://laptop88.vn/new-100-laptop-asus-zenbook-14-um3406ga-qd073ws-ryzen-ai-7-445-32gb-1tb-14-inch-wuxga-60hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "Pro 14 Plus PB14250-PB14250-235U-16512W",
-      "url": "https://laptop88.vn/new-100-laptop-dell-pro-14-plus-pb14250-235u-16512w-2025-ultra-5-235u-16gb-512gb-14-inch-full-hd",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "VivoBook 14 A1407CA-LY008WS",
-      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-14-a1407ca-ly008ws-intel-core-ultra-5-225h-16gb-ddr5-14-inch-wuxga-100-srgb",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -1689,20 +1150,6 @@
       ]
     },
     {
-      "model": "OMEN 16-wf1137TX (A2NR9PA)",
-      "url": "https://laptop88.vn/new-100-hp-omen-16-wf1137tx-a2nr9pa-intel-core-i9-14900h-32gb-1tb-rtx-4070-16-inch-qhd-240hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "OMEN 16-wf1139TX (A2NS1PA)",
-      "url": "https://laptop88.vn/new-100-hp-omen-16-wf1139tx-a2ns1pa-intel-core-i7-14700h-32gb-1tb-rtx-4060-16-inch-qhd-240hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "Pro 14 PC14250-PC14250-235U-16512W",
       "url": "https://laptop88.vn/new-100-laptop-dell-pro-14-pc14250-235u-16512w-kyhd-ultra-5-235u-16gb-512gb-14-inch-full-hd",
       "selector": [
@@ -1738,13 +1185,6 @@
       ]
     },
     {
-      "model": "Gaming V16 V3607VU-RP343W",
-      "url": "https://laptop88.vn/new-100-laptop-asus-gaming-v16-v3607vu-rp343w-core-5-210h-rtx-4050-6gb-16-inch-144hz",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "Legion 5 15IRX10-83LY00A7VN",
       "url": "https://laptop88.vn/new-100-lenovo-legion-5-15irx10-83ly00a7vn-intel-core-i7-14700hx-rtx-5050-15-inch-oled-wqxga-165hz",
       "selector": [
@@ -1754,13 +1194,6 @@
     {
       "model": "Yoga Slim 7 14AKP10-83JY001VVN",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-yoga-slim-7-14akp10-83jy001vvn-amd-ryzen-ai-7-350-32gb-1tb-14-inch-28k-oled",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "ThinkBook 14 G7 IML-21MR0072VN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-thinkbook-14-g7-iml-21mr0072vn-intel-ultra-7-155u-16gb-512gb-14-inch-wuxga",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -1815,22 +1248,8 @@
       ]
     },
     {
-      "model": "V15 G4 IRU-83A1000RVN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-v15-g4-iru-83a1000rvn-intel-core-i5-1335u-15.6-inch-full-hd.html",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
       "model": "IdeaPad Slim 5 14IMH9-83DA0020VN",
       "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-5-14imh9-83da0020vn-intel-core-ultra-7-155h-32gb-14-inch-wuxga-oled-100-dci-p3.html",
-      "selector": [
-        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
-      ]
-    },
-    {
-      "model": "IdeaPad Slim 5 14IMH9-83DA006TVN",
-      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-5-14imh9-83da006tvn-intel-core-ultra-5-125h-16gb-14-inch-wuxga-oled-100-dci-p3.html",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
@@ -1871,8 +1290,603 @@
       ]
     },
     {
-      "model": "G5 MF5-52VN353SH",
-      "url": "https://laptop88.vn/new-100-laptop-gaming-gigabyte-g5-mf5-52vn353sh-i5-13500h-rtx-4050-15.6-inch-144hz.html",
+      "model": "15-fd1289TU (C2CV8PA)",
+      "url": "https://laptop88.vn/new-100-laptop-hp-15-fd1289tu-c2cv8pa-ultra-7-155h-16gb-ssd-512gb-156-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Aspire 7 Gaming A715-59G-78WG (NH.QX6SV.006)",
+      "url": "https://laptop88.vn/new-100-laptop-acer-gaming-aspire-7-a715-59g-78wg-intel-core-i7-13620h-ram-16gb-rtx-3050-6gb-156-inch-full-hd-144hz",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Aspire Go AG14-72P-563L (NX.JSBSV.002)",
+      "url": "https://laptop88.vn/new-100-laptop-acer-aspire-go-14-ag14-72p-563l-intel-core-5-120u-16gb-ssd-512gb-14-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Aspire Go AG15-72P-54GY (NX.JRRSV.002)",
+      "url": "https://laptop88.vn/new-100-laptop-acer-aspire-go-15-ag15-72p-54gy-intel-core-5-120u-16gb-ssd-512gb-15-6-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL15-46P-R73C (NX.JXMSV.001)",
+      "url": "https://laptop88.vn/new-100-laptop-acer-aspire-lite-15-al15-46p-r73c-nxjxmsv001-ryzen-3-5400u-8gb-512gb-156-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL15-48P-R5MN (NX.DS1SV.001)",
+      "url": "https://laptop88.vn/new-100-laptop-acer-aspire-lite-15-al15-48p-r5mn-nxds1sv001-amd-ryzen-5-5625u-156-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Aspire Lite AL15-48P-R86Q (NX.DS1SV.002)",
+      "url": "https://laptop88.vn/new-100-laptop-acer-aspire-lite-15-al15-48p-r86q-nxds1sv002-ryzen-7-5825u-8gb-512gb-156-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ExpertBook B3 B3405CCA-LY0077W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-b3-b3405cca-ly0077w-intel-core-ultra-5-225h-ssd-512gb-ram-16gb-14-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ExpertBook B3 B3405CCA-LY0080W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-b3-b3405cca-ly0080w-intel-core-ultra-7-255h-ssd-512gb-ram-16gb-14-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ExpertBook P1 P1403CVA-C5H16-63WS",
+      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p1-p1403cva-c5h16-63ws-intel-core-5-210h-16gb-ddr5-14-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ExpertBook P1 P1403CVA-C7H16-63WS",
+      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p1-p1403cva-c7h16-63ws-intel-core-7-240h-16gb-ddr5-14-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ExpertBook P1 P1403CVA-C7H321T-63WS",
+      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p1-p1403cva-c7h321t-63ws-intel-core-7-240h-16gb-ddr5-14-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ExpertBook P1 P1503CVA-C5H08-50W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p1-p1503cva-c5h08c5h16-50w-intel-core-5-210h-ssd-512gb-156-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ExpertBook P1 P1503CVA-C5H16-50W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p1-p1503cva-c5h08c5h16-50w-intel-core-5-210h-ssd-512gb-156-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ExpertBook P1 P1503CVA-C5H16-63WS",
+      "url": "https://laptop88.vn/new-100-laptop-expertbook-p1-p1503cva-c5h16-63ws-intel-core-5-210h-16gb-ddr5-156-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ExpertBook P1 P1503CVA-C7H16-50W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p1-p1503cva-c7h16-50w-intel-core-7-240h-16gb-ddr5-156-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ExpertBook P1 P1503CVA-C7H16-63WS",
+      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p1-p1503cva-c7h16-63ws-intel-core-7-240h-16gb-ddr5-156-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ExpertBook P1 P1503CVA-C7H321T-63WS",
+      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p1-p1503cva-c7h321t-63ws-intel-core-7-240h-16gb-ddr5-156-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ExpertBook PM3 PM3406CHA-LY0089W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p3-pm3406cha-ly0089w-ryzen-7-8840hs-16gb-512gb-14-inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ExpertBook PM3 PM3606CHA-MB0082W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-expertbook-p3-pm3606cha-mb0082w-ryzen-7-8840hs-16gb-512gb-16-inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 14ARP10-83K600E6VN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-3-14arp10-83k600e6vn-amd-ryzen-5-7535hs-16gb-14-inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 14IPH11-83UQ000JVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-3-14iph11-83uq000jvn-ultra-5-322-16gb-512gb-14-inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 14IPH11-83UQ002GVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-3-14iph11-83uq002gvn-ultra-7-355-16gb-512gb-14-inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 14IPH11-83UQ003NVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-3-14iph11-83uq003nvn-ultra-5-322-16gb-512gb-14-inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 15ARP10-83K700YVVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-3-15arp10-83k700yvvn-amd-ryzen-7-7735hs-16gb-512gb-153-inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 16ARP10-83K80016VN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-3-16arp10-83k80016vn-amd-ryzen-5-7535hs-16gb-512gb-16-inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 5 14AKP10-83HX00ABVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-5-14akp10-83hx00abvn-ryzen-ai-5-330-16gb-512gb-14-inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 5 14IMH10-83V6001GVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-5-14imh10-83v6001gvn-intel-core-ultra-5-135h-16gb-512gb-14-inch-wuxga-oled-100-dci-p3",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 5 14IMH10-83V6001HVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-ideapad-slim-5-14imh10-83v6001hvn-core-ultra-5-135h-32gb-512gb-14-inch-wuxga-oled",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Legion 5 15AHP11-83Q7001JVN",
+      "url": "https://laptop88.vn/new-100-lenovo-legion-5-15ahp11-83q7001jvn-amd-ryzen-7-250-rtx-5060-15-1-inch-oled-wqxga-165hz",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Legion 5 15IPH11-83RW0023VN",
+      "url": "https://laptop88.vn/new-100-lenovo-legion-5-15iph11-83rw0023vn-ultra-7-356h-rtx-5060-153-inch-oled-wqxga-165hz",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Legion Pro 5 16IAX10-83F3002GVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-legion-pro-5-16iax10-83f3002gvn-intel-ultra-9-275hx-rtx-5070-16-inch-wqxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Legion Pro 5 16IAX10-83F3003VVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-legion-pro-5-16iax10-83f3003vvn-intel-ultra-9-275hx-rtx-5060-16-inch-wqxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "LOQ 15IRX9-83DV01H3VN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-loq-15irx9-83dv00d5vn-intel-core-i7-13650hx-rtx-4050-15.6-inch-144hz-100-srgb.html",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "LOQ Essential 15ARP10E-83S0000DVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-loq-essential-15arp10e-83s0000dvn-ryzen-5-7535hs-rtx-3050-6gb-156-inch-full-hd-144hz-100-srgb",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Predator Helios Neo PHN16-I31-50H7 (NH.U4SSV.001)",
+      "url": "https://laptop88.vn/new-100-laptop-acer-predator-helios-neo-16-phn16-i31-50h7-intel-i5-14450hx-32gb-512gb-rtx-5050-16-inch-fhd-180hz",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Predator Helios Neo PHN16-I31-72XE (NH.U4RSV.001)",
+      "url": "https://laptop88.vn/new-100-laptop-acer-predator-helios-neo-16-phn16-i31-72xe-intel-i7-14650hx-32gb-512gb-rtx-5060-16-inch-2k-180hz",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Predator Helios Neo PHN16-I31-74MN (NH.U4SSV.002)",
+      "url": "https://laptop88.vn/new-100-laptop-acer-predator-helios-neo-16-phn16-i31-74mn-intel-i7-14650hx-32gb-512gb-rtx-5050-16-inch-full-hd-180hz",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ProArt PX13 HN7306EA-LX050W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-proart-px13-hn7306ea-lx050w-ryzen-ai-max-395-32gb-1tb-radeon-8060s-graphics-133-inch-3k-oled-cam-ung",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ROG Strix G16 G614PH-S5101W",
+      "url": "https://laptop88.vn/new-100-laptop-gaming-asus-rog-strix-g16-g614ph-s5101w-ryzen-9-8940hx-16gb-512gb-rtx-5050-160-inch-wqxga-240hz-win-11",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ROG Strix G16 G614PH-TS118W",
+      "url": "https://laptop88.vn/new-100-laptop-gaming-asus-rog-strix-g16-g614ph-ts118w-amd-r9-8940hx-16gb-512gb-rtx-5050-16-inch-wqxga-300hz",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ROG Strix G16 G614PM-TS147W",
+      "url": "https://laptop88.vn/new-100-laptop-gaming-asus-rog-strix-g16-g614pm-ts147w-amd-r9-8940hx-16gb-512gb-rtx-5060-16-inch-wqxga-300hz",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ROG Strix G16 G614PP-TS112W",
+      "url": "https://laptop88.vn/new-100-laptop-gaming-asus-rog-strix-g16-g614pp-ts112w-amd-r9-8940hx-16gb-512gb-rtx-5070-16-inch-wqxga-300hz",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ROG Strix G16 G614PR-TS103W",
+      "url": "https://laptop88.vn/new-100-laptop-gaming-asus-rog-strix-g16-g614pr-ts103w-amd-r9-8940hx-16gb-512gb-rtx-5070ti-16-inch-wqxga-300hz",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ROG Strix G16 G614PW-TS051W",
+      "url": "https://laptop88.vn/new-100-laptop-gaming-asus-rog-strix-g16-g614pw-ts051w-amd-r9-8940hx-16gb-1tb-rtx-5080-16-inch-wqxga-300hz",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G14 GA403GM-SY004W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-rog-zephyrus-g14-ga403gm-sy004w-ryzen-ai-9-465-32gb-1tb-rtx-5060-14-inch-3k-oled-120hz-win-11",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ThinkBook 14 G9 IRL-21UY008XVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-thinkbook-14-g9-irl-21uy008xvn-intel-core-5-210h-16gb-512gb-14inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ThinkPad E14 Gen 7-21SX00BJVA",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-thinkpad-e14-gen-7-21sx00bjva-ultra-5-135h-16gb-512gb-140inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ThinkPad E16 Gen 3-21SR00A6VA",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-thinkpad-e16-gen-3-21sr00a6va-ultra-5-135h-16gb-512gb-16-inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ThinkPad T14s Gen 6-21QX00LDVA",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-thinkpad-t14s-gen-6-21qx00ldva-ultra-7-258v-32gb-512gb-140inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ThinkPad X13 Gen 5-21LVS62000",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-thinkpad-x13-gen-5-ultra-5-125u-16gb-512gb-13-inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "TUF Gaming A14 FA401EA-RG034W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-tuf-gaming-a14-fa401ea-rg034w-ryzen-ai-max-392-64gb-1tb-amd-radeon-8060s-14inch-wqxga-165hz",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "TUF Gaming F16 FX608JHI-TU210W",
+      "url": "https://laptop88.vn/new-100-laptop-tuf-gaming-f16-fx608jhi-tu210w-i5-14450hx-rtx-5050-16-inch-fhd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "V14 G5 IRL-83HD0062VA",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-v14-gen-5-iru-83hd0062va-intel-core-i5-13420h-16gb-512gb-14-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook 14 A1407QA-LY114W",
+      "url": "https://laptop88.vn/new-100-asus-vivobook-14-a1407qa-ly114w-snapdragon-x-x1-26-100-ram-16gb-14-inch-fhd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook 14 Flip TP3407SA-SG349W",
+      "url": "https://laptop88.vn/new-100-laptop-vivobook-14-flip-tp3407sa-sg349w-ultra-5-226v-ram-16gb-14-inch-fhd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook 14 M1405NAQ-LY011W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-14-m1405naq-ly011w-amd-ryzen-7-170-ram-16gb-14-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook 14 M1407GA-LY270W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-14-m1407ga-ly270w-amd-ryzen-ai-7-445-ram-16gb-14-inch-full-hd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook 14 X1404VA-EB355W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-14-x1404va-eb355w-core-7-150u-ram-16gb-14-inch-fhd-1",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook 14 X1404VA-EB609W",
+      "url": "https://laptop88.vn/new-100-asus-vivobook-14-x1404va-eb609w-core-3-100u-ram-8gb-14-inch-fhd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook 15 X1504VA-BQ265W",
+      "url": "https://laptop88.vn/new-100-asus-vivobook-15-x1504va-bq265w-core-5-120u-ram-16gb-156-inch-fhd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook 16 X1607CA-MB990W",
+      "url": "https://laptop88.vn/new-100-asus-vivobook-x1607ca-mb990w-core-7-255h-ram-16gb-16-inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook Go 14 E1404FA-EB012W",
+      "url": "https://laptop88.vn/new-100-asus-vivobook-go-14-e1404fa-eb012w-amd-r5-40-ram-8gb-14-inch-fhd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook S14 M3407GA-SF030W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s14-m3407ga-sf030w-ryzen-ai-7-445-16gb-ssd-512gb-14-inch-wuxga-oled",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook S14 M3407HA-SF480W",
+      "url": "https://laptop88.vn/new-100-asus-vivobook-s14-m3407ha-sf480w-amd-ryzen-5-220-ram-16gb-14-inch-fhd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook S14 M3407HA-SF490W",
+      "url": "https://laptop88.vn/new-100-asus-vivobook-s14-m3407ha-sf490w-r7-260-ram-16gb-14-inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook S14 S3407AA-SF032W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s14-s3407aa-sf032w-ultra-7-355-16gb-512gb-140-inch-wuxga-win-11",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook S14 S3407AA-SF945W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s14-s3407aa-sf945w-ultra-5-325-16gb-512gb-140-inch-wuxga-win-11",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook S14 S3407CA-SF913W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s14-s3407ca-sf913w-ultra-5-225h-16gb-512gb-140-inch-wuxga-win-11",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook S14 S3407VA-LY256W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s14-s3407va-ly256w-intel-core-7-240h-16gb-512gb-14-inch-wuxga",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook S16 OLED M3607GA-SH034W",
+      "url": "https://laptop88.vn/new-100-asus-vivobook-s16-m3607ga-sh034w-ryzen-ai-7-445-ram-16gb-16-inch-fhd",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook S16 S3607AA-SH042W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s16-s3607aa-sh042w-ultra-5-325-16gb-512gb-160-inch-wuxga-win-11",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "VivoBook S16 S3607AA-SH043W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-vivobook-s16-s3607aa-sh043w-ultra-7-355-16gb-512gb-160-inch-wuxga-win-11",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Yoga Slim 7 14AGP11-83QS001DVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-slim-7-14agp11-83qs001dvn-amd-ryzen-ai-7-445-16gb-512gb-14-inch-wuxga-oled",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Yoga Slim 7 14IMH9-83CV001UVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-slim-7-14imh9-83cv001uvn-intel-core-ultra-7-155h-32gb-14-inch-wuxga.html",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Yoga Slim 7 14IPH11-83QM002EVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-slim-7-14iph11-83qm002fvn-83qm002evn-intel-core-ultra-7-355-32gb-1tb-14-inch-wuxga-oled",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Yoga Slim 7 14IPH11-83QM002FVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-slim-7-14iph11-83qm002fvn-83qm002evn-intel-core-ultra-7-355-32gb-1tb-14-inch-wuxga-oled",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "ZenBook 14 UX3405CA-ST629W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-zenbook-14-ux3405ca-st629w-ultra-7-255h-32gb-512gb-14-inch-3k-120hz",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Zenbook S16 UM5606GA-SS441W",
+      "url": "https://laptop88.vn/new-100-laptop-asus-zenbook-s16-um5606ga-ss441w-ryzen-ai-9-465-16gb-512gb-16-inch-3k-oled-win-11",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Yoga Slim 7 14IPH11-83QK0015VN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-slim-7-14iph11-83qk0015vn-83qk0048vn-fifa-edition-intel-core-ultra-7-355-32gb-1tb-14-inch-28k-oled",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Yoga Slim 7 14IPH11-83QK0016VN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-slim-7-14iph11-83qk0016vn-intel-core-ultra-x9-388h-32gb-1tb-14-inch-28k-oled",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Yoga Slim 7 14IPH11-83QK0048VN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-slim-7-14iph11-83qk0015vn-83qk0048vn-fifa-edition-intel-core-ultra-7-355-32gb-1tb-14-inch-28k-oled",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "Yoga Slim 7 14IPH11-83QK006GVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-yoga-slim-7-14iph11-83qk006gvn-intel-core-ultra-7-355-32gb-1tb-14-inch-28k-oled-fifa-edition",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "LOQ Essential 15ARP10E-83S000DDVN",
+      "url": "https://laptop88.vn/new-100-laptop-lenovo-loq-essential-15arp10e-83s000ddvn-amd-ryzen-7-170-rtx-4050-6gb-156-inch-full-hd-144hz-100-srgb",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "A16-CMHI2VN893SH",
+      "url": "https://laptop88.vn/new-100-laptop-gaming-gigabyte-a16-cmhi2vn893sh-intel-core-i7-13620h-rtx-4050-16-inch-165hz",
+      "selector": [
+        "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
+      ]
+    },
+    {
+      "model": "A16-CTHH3VN893SH",
+      "url": "https://laptop88.vn/new-100-laptop-gaming-gigabyte-a16-cthh3vn893sh-intel-core-i5-13420h-rtx-5050-16-inch-165hz",
       "selector": [
         "body > main > div.product-detail > div > div.main-product-detail.d-flex > div.main-product-mid > div.price.js-price-config.js-price-buildpc"
       ]
