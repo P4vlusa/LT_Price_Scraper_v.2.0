@@ -380,7 +380,7 @@
       ]
     },
     {
-      "model": "Aspire 7 Gaming A715-59G-53GZ  (NH.QX6SV.00A)",
+      "model": "Aspire 7 Gaming A715-59G-53GZ (NH.QX6SV.00A)",
       "url": "https://www.anphatpc.com.vn/laptop-acer-aspire-7-a715-59g-53gz-nh.qx6sv.00a.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -398,7 +398,7 @@
       ]
     },
     {
-      "model": "Aspire 7 Gaming A715-59G-79XF  (NH.QX6SV.008)",
+      "model": "Aspire 7 Gaming A715-59G-79XF (NH.QX6SV.008)",
       "url": "https://www.anphatpc.com.vn/laptop-acer-aspire-7-a715-59g-79xf-nh.qx6sv.008.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -506,7 +506,7 @@
       ]
     },
     {
-      "model": "Aspire Lite AL14-71P-55P9  (NX.D7USV.001)",
+      "model": "Aspire Lite AL14-71P-55P9 (NX.D7USV.001)",
       "url": "https://www.anphatpc.com.vn/laptop-acer-aspire-lite-14-al14-71p-55p9-nx.d7usv.001.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -6887,7 +6887,7 @@
       ]
     },
     {
-      "model": "Legion Pro 5  16IRX8-82WK00ANVN",
+      "model": "Legion Pro 5 16IRX8-82WK00ANVN",
       "url": "https://www.anphatpc.com.vn/laptop-lenovo-legion-pro-5-16irx8-82wk00anvn.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -6896,7 +6896,7 @@
       ]
     },
     {
-      "model": "Legion Pro 5  16IRX8-82WK00APVN",
+      "model": "Legion Pro 5 16IRX8-82WK00APVN",
       "url": "https://www.anphatpc.com.vn/laptop-lenovo-legion-pro-5-16irx8-82wk00apvn.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -9560,7 +9560,7 @@
       ]
     },
     {
-      "model": "14 DC14250-C7U161W11SLU",
+      "model": "14 DC14250-DC14250-C7U161W11SLU",
       "url": "https://www.anphatpc.com.vn/laptop-dell-14-dc14250-c7u161w11slu.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -9623,7 +9623,7 @@
       ]
     },
     {
-      "model": "15 DC15250-i7U161W11SLU",
+      "model": "15 DC15250-DC15250-i7U161W11SLU",
       "url": "https://www.anphatpc.com.vn/laptop-dell-15-dc15250-i7u161w11slu.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -9650,7 +9650,7 @@
       ]
     },
     {
-      "model": "16 DC16250-C7U161W11BLU",
+      "model": "16 DC16250-DC16250-C7U161W11BLU",
       "url": "https://www.anphatpc.com.vn/laptop-dell-16-dc16250-c7u161w11blu.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -9758,7 +9758,7 @@
       ]
     },
     {
-      "model": "Inspiron  5430-20DY3",
+      "model": "Inspiron 5430-20DY3",
       "url": "https://www.anphatpc.com.vn/laptop-dell-inspiron-14-5430-20dy3.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -9767,7 +9767,7 @@
       ]
     },
     {
-      "model": "Inspiron  5430-20DY31",
+      "model": "Inspiron 5430-20DY31",
       "url": "https://www.anphatpc.com.vn/laptop-dell-inspiron-14-5430-20dy31.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -9776,7 +9776,7 @@
       ]
     },
     {
-      "model": "Inspiron  5440-71034769",
+      "model": "Inspiron 5440-71034769",
       "url": "https://www.anphatpc.com.vn/laptop-dell-inspiron-14-5440-71034769.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -9785,7 +9785,7 @@
       ]
     },
     {
-      "model": "Inspiron  5440-71034770",
+      "model": "Inspiron 5440-71034770",
       "url": "https://www.anphatpc.com.vn/laptop-dell-inspiron-14-5440-71034770.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -9794,7 +9794,7 @@
       ]
     },
     {
-      "model": "Inspiron  5440-71053697",
+      "model": "Inspiron 5440-71053697",
       "url": "https://www.anphatpc.com.vn/laptop-dell-inspiron-14-5440-71053697.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -9803,7 +9803,7 @@
       ]
     },
     {
-      "model": "Inspiron  5440-N4I5211W1",
+      "model": "Inspiron 5440-N4I5211W1",
       "url": "https://www.anphatpc.com.vn/laptop-dell-inspiron-14-5440-n4i5211w1.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -9812,7 +9812,7 @@
       ]
     },
     {
-      "model": "Inspiron  5440-N4I7204W1",
+      "model": "Inspiron 5440-N4I7204W1",
       "url": "https://www.anphatpc.com.vn/laptop-dell-inspiron-14-5440-n4i7204w1.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -9821,7 +9821,7 @@
       ]
     },
     {
-      "model": "Inspiron  5440-N5440-i5U085W11IBU",
+      "model": "Inspiron 5440-N5440-i5U085W11IBU",
       "url": "https://www.anphatpc.com.vn/laptop-dell-inspiron-14-5440-n5440-i5u085w11ibu.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -9830,7 +9830,7 @@
       ]
     },
     {
-      "model": "Inspiron  5441-5MNK1",
+      "model": "Inspiron 5441-5MNK1",
       "url": "https://www.anphatpc.com.vn/laptop-dell-inspiron-14-5441-5mnk1.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -9839,7 +9839,7 @@
       ]
     },
     {
-      "model": "Pro 13 Plus PB13250 42LTU7PB13250",
+      "model": "Pro 13 Plus PB13250-42LTU7PB13250",
       "url": "https://www.anphatpc.com.vn/laptop-dell-pro-13-plus-pb13250-42ltu7pb13250.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -9866,7 +9866,7 @@
       ]
     },
     {
-      "model": "Pro 14 Essential PV14250_PV14250-120U-08512U",
+      "model": "Pro 14 Essential PV14250-PV14250-120U-08512U",
       "url": "https://www.anphatpc.com.vn/laptop-dell-pro-14-essential-pv14250_pv14250-120u-08512u.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
@@ -10021,24 +10021,6 @@
     {
       "model": "ROG Zephyrus G14 GA403WM-QS019WS",
       "url": "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g14-ga403wm-qs019ws.html",
-      "selector": [
-        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
-        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
-        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
-      ]
-    },
-    {
-      "model": "ROG Zephyrus G15 GA503QS-HQ052T",
-      "url": "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g15-ga503qs-hq052t.html",
-      "selector": [
-        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
-        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
-        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
-      ]
-    },
-    {
-      "model": "ROG Zephyrus G15 GA503RW-LN076W",
-      "url": "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g15-ga503rw-ln076w.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
@@ -10271,7 +10253,7 @@
       ]
     },
     {
-      "model": "XPS 9350 XPS9350-U5IA165W11GR-FP",
+      "model": "XPS 9350-XPS9350-U5IA165W11GR-FP",
       "url": "https://www.anphatpc.com.vn/laptop-dell-xps-9350-xps9350-u5ia165w11gr-fp.html",
       "selector": [
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",

@@ -18,7 +18,7 @@
       ]
     },
     {
-      "model": "14 DC14250-C3U085W11SLU",
+      "model": "14 DC14250-DC14250-C3U085W11SLU",
       "url": "https://laptopworld.vn/laptop-dell-14-dc14250-c3u085w11slu",
       "selector": [
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "model": "14 DC14250-C7U161W11SLU",
+      "model": "14 DC14250-DC14250-C7U161W11SLU",
       "url": "https://laptopworld.vn/laptop-dell-14-dc14250-c7u161w11slu",
       "selector": [
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
@@ -338,7 +338,7 @@
       ]
     },
     {
-      "model": "15 fr0032TU (BZ7T9PA)",
+      "model": "15-fr0032TU (BZ7T9PA)",
       "url": "https://laptopworld.vn/laptop-hp-15-fr0032tu-bz7t9pa",
       "selector": [
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
@@ -402,7 +402,7 @@
       ]
     },
     {
-      "model": "16 Plus DB16250 X65NW7",
+      "model": "16 Plus DB16250-X65NW7",
       "url": "https://laptopworld.vn/laptop-dell-16-plus-db16250-x65nw7",
       "selector": [
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
@@ -730,7 +730,7 @@
       ]
     },
     {
-      "model": "Aspire 7 Gaming A715-59G-53GZ  (NH.QX6SV.00A)",
+      "model": "Aspire 7 Gaming A715-59G-53GZ (NH.QX6SV.00A)",
       "url": "https://laptopworld.vn/laptop-acer-gaming-aspire-7-a715-59g-53gz-nh-qx6sv-00a",
       "selector": [
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
@@ -754,7 +754,7 @@
       ]
     },
     {
-      "model": "Aspire 7 Gaming A715-59G-79XF  (NH.QX6SV.008)",
+      "model": "Aspire 7 Gaming A715-59G-79XF (NH.QX6SV.008)",
       "url": "https://laptopworld.vn/laptop-acer-gaming-aspire-7-a715-59g-79xf-nh-qx6sv-008",
       "selector": [
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
@@ -826,7 +826,7 @@
       ]
     },
     {
-      "model": "Aspire Lite AL14-71P-55P9  (NX.D7USV.001)",
+      "model": "Aspire Lite AL14-71P-55P9 (NX.D7USV.001)",
       "url": "https://laptopworld.vn/laptop-acer-aspire-lite-14-al14-71p-55p9-nx-d7usv-001",
       "selector": [
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
@@ -2514,7 +2514,7 @@
       ]
     },
     {
-      "model": "LenovoIdeaPad Slim 3 16IWC11-83RS002KVN",
+      "model": "IdeaPad Slim 3 16IWC11-83RS002KVN",
       "url": "https://laptopworld.vn/laptop-lenovoideapad-slim-3-16iwc11-83rs002kvn",
       "selector": [
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
@@ -4018,7 +4018,7 @@
       ]
     },
     {
-      "model": "Raider 18 HX AI A2XWIG 033VN",
+      "model": "Raider 18 HX AI A2XWIG-033VN",
       "url": "https://laptopworld.vn/laptop-msi-raider-18-hx-ai-a2xwig-033vn",
       "selector": [
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
@@ -6338,7 +6338,7 @@
       ]
     },
     {
-      "model": "ThinkPad X1 2in1 Gen 10-21NU004PVN",
+      "model": "ThinkPad X1 2-in-1 Gen 10-21NU004PVN",
       "url": "https://laptopworld.vn/laptop-lenovo-thinkpad-x1-2in1-gen-10-aura-edition-21nu004pvn",
       "selector": [
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
@@ -6346,7 +6346,7 @@
       ]
     },
     {
-      "model": "ThinkPad X1 2in1 Gen 10-21NU004QVN",
+      "model": "ThinkPad X1 2-in-1 Gen 10-21NU004QVN",
       "url": "https://laptopworld.vn/laptop-lenovo-thinkpad-x1-2in1-gen-10-aura-edition-21nu004qvn",
       "selector": [
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
@@ -6362,7 +6362,7 @@
       ]
     },
     {
-      "model": "ThinkPad X1 2in1 Gen 10-21NU004UVN",
+      "model": "ThinkPad X1 2-in-1 Gen 10-21NU004UVN",
       "url": "https://laptopworld.vn/laptop-lenovo-thinkpad-x1-2in1-gen-10-aura-edition-21nu004uvn",
       "selector": [
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
@@ -7930,7 +7930,7 @@
       ]
     },
     {
-      "model": "Yoga 7 2in1 14IPH11-83TC002KVN",
+      "model": "Yoga 7 2-in-1 14IPH11-83TC002KVN",
       "url": "https://laptopworld.vn/laptop-lenovo-yoga-7-2in1-14iph11-83tc002kvn",
       "selector": [
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
@@ -7938,7 +7938,7 @@
       ]
     },
     {
-      "model": "Yoga 7 2in1 14IPH11-83TC002LVN",
+      "model": "Yoga 7 2-in-1 14IPH11-83TC002LVN",
       "url": "https://laptopworld.vn/laptop-lenovo-yoga-7-2in1-14iph11-83tc002lvn",
       "selector": [
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",

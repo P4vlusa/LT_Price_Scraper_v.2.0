@@ -92,7 +92,7 @@
       ]
     },
     {
-      "model": "Aspire 7 Gaming A715-59G-53GZ  (NH.QX6SV.00A)",
+      "model": "Aspire 7 Gaming A715-59G-53GZ (NH.QX6SV.00A)",
       "url": "https://www.ankhang.vn/laptop-acer-gaming-aspire-7-a715-59g-53gz-nh.qx6sv.00a.html",
       "selector": [
         "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "model": "Aspire 7 Gaming A715-59G-79XF  (NH.QX6SV.008)",
+      "model": "Aspire 7 Gaming A715-59G-79XF (NH.QX6SV.008)",
       "url": "https://www.ankhang.vn/laptop-acer-gaming-aspire-7-a715-59g-79xf-nh.qx6sv.008.html",
       "selector": [
         "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
@@ -4512,7 +4512,7 @@
       ]
     },
     {
-      "model": "14 DC14250-C3U085W11SLU-27",
+      "model": "14 DC14250-DC14250-C3U085W11SLU-27",
       "url": "https://www.ankhang.vn/laptop-dell-14-dc14250-dc14250-c3u085w11slu-27.html",
       "selector": [
         "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
@@ -4522,7 +4522,7 @@
       ]
     },
     {
-      "model": "14 DC14250-C7U161W11SLU-27",
+      "model": "14 DC14250-DC14250-C7U161W11SLU-27",
       "url": "https://www.ankhang.vn/laptop-dell-14-dc14250-dc14250-c7u161w11slu-27.html",
       "selector": [
         "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
@@ -4712,7 +4712,7 @@
       ]
     },
     {
-      "model": "15 DC15250-i5U165W11SLU-27",
+      "model": "15 DC15250-DC15250-i5U165W11SLU-27",
       "url": "https://www.ankhang.vn/laptop-dell-15-dc15250-i5u165w11slu-27.html",
       "selector": [
         "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
@@ -4722,7 +4722,7 @@
       ]
     },
     {
-      "model": "15 DC15250-i5U165W11SLU-5",
+      "model": "15 DC15250-DC15250-i5U165W11SLU-5",
       "url": "https://www.ankhang.vn/laptop-dell-15-dc15250-dc15250-i5u165w11slu-5.html",
       "selector": [
         "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
@@ -4732,7 +4732,7 @@
       ]
     },
     {
-      "model": "15 DC15250-i7U161W11SLU-27",
+      "model": "15 DC15250-DC15250-i7U161W11SLU-27",
       "url": "https://www.ankhang.vn/laptop-dell-15-dc15250-dc15250-i7u161w11slu-27.html",
       "selector": [
         "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
@@ -4742,7 +4742,7 @@
       ]
     },
     {
-      "model": "15 DC15250-i7U161W11SLU-5",
+      "model": "15 DC15250-DC15250-i7U161W11SLU-5",
       "url": "https://www.ankhang.vn/laptop-dell-15-dc15250-i7u161w11slu-5.html",
       "selector": [
         "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
@@ -5242,7 +5242,7 @@
       ]
     },
     {
-      "model": "Pro 14 Essential PV14250 PV14250-120U-08512W",
+      "model": "Pro 14 Essential PV14250-PV14250-120U-08512W",
       "url": "https://www.ankhang.vn/laptop-dell-pro-14-essential-pv14250-pv14250-120u-08512w.html",
       "selector": [
         "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
@@ -5432,7 +5432,7 @@
       ]
     },
     {
-      "model": "Pro 14 Plus PB14250 PB14250-235U-16512W",
+      "model": "Pro 14 Plus PB14250-PB14250-235U-16512W",
       "url": "https://www.ankhang.vn/laptop-dell-pro-14-plus-pb14250-pb14250-235u-16512w.html",
       "selector": [
         "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",

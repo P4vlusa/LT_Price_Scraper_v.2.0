@@ -10,7 +10,7 @@
       ]
     },
     {
-      "model": "14 DC14250-DC14250-C7U161W11SLU/-27",
+      "model": "14 DC14250-DC14250-C7U161W11SLU-27",
       "url": "https://hacom.vn/laptop-dell-14-dc14250-dc14250-c7u161w11blu-ltdl0660",
       "selector": [
         "#thongtin > div.dark\\:dark-bg-common.min-w-1200.min-w-1650.mx-auto.box-border.rounded-lg.bg-background.px-\\[5px\\].pb-\\[7px\\].text-\\[13px\\].dark\\:text-white.md\\:px-\\[10px\\] > div > div.w-\\[100\\%\\].min-w-0.overflow-x-hidden.overflow-y-auto.md\\:w-\\[55\\%\\].lg\\:w-\\[45\\%\\].xl\\:w-\\[37\\%\\] > div.min-h-\\[250px\\] > div.min-h-\\[128px\\] > section > div:nth-child(1) > div > p.price-sale.text-\\[24px\\].font-bold.text-\\[\\#ec1c24\\] > strong > span",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "model": "14 DC14255-DC14255-R7165W11SLU/SLU-27",
+      "model": "14 DC14255-DC14255-R7165W11SLU-27",
       "url": "https://hacom.vn/laptop-dell-14-dc14255-dc14255-r7165w11slu-ltdl0659",
       "selector": [
         "#thongtin > div.dark\\:dark-bg-common.min-w-1200.min-w-1650.mx-auto.box-border.rounded-lg.bg-background.px-\\[5px\\].pb-\\[7px\\].text-\\[13px\\].dark\\:text-white.md\\:px-\\[10px\\] > div > div.w-\\[100\\%\\].min-w-0.overflow-x-hidden.overflow-y-auto.md\\:w-\\[55\\%\\].lg\\:w-\\[45\\%\\].xl\\:w-\\[37\\%\\] > div.min-h-\\[250px\\] > div.min-h-\\[128px\\] > section > div:nth-child(1) > div > p.price-sale.text-\\[24px\\].font-bold.text-\\[\\#ec1c24\\] > strong > span",
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "model": "15 DC15250-DC15250-i7U161W11SLU-5/SLU-27",
+      "model": "15 DC15250-DC15250-i7U161W11SLU-5",
       "url": "https://hacom.vn/laptop-dell-15-dc15250-dc15250-i7u161w11slu-5-ltdl0670",
       "selector": [
         "#thongtin > div.dark\\:dark-bg-common.min-w-1200.min-w-1650.mx-auto.box-border.rounded-lg.bg-background.px-\\[5px\\].pb-\\[7px\\].text-\\[13px\\].dark\\:text-white.md\\:px-\\[10px\\] > div > div.w-\\[100\\%\\].min-w-0.overflow-x-hidden.overflow-y-auto.md\\:w-\\[55\\%\\].lg\\:w-\\[45\\%\\].xl\\:w-\\[37\\%\\] > div.min-h-\\[250px\\] > div.min-h-\\[128px\\] > section > div:nth-child(1) > div > p.price-sale.text-\\[24px\\].font-bold.text-\\[\\#ec1c24\\] > strong > span",
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "model": "15 DC15250-P112F010/5315BLK",
+      "model": "15 DC15250-5315BLK",
       "url": "https://hacom.vn/laptop-dell-15-dc15250-p112f010-ltdl0685",
       "selector": [
         "#thongtin > div.dark\\:dark-bg-common.min-w-1200.min-w-1650.mx-auto.box-border.rounded-lg.bg-background.px-\\[5px\\].pb-\\[7px\\].text-\\[13px\\].dark\\:text-white.md\\:px-\\[10px\\] > div > div.w-\\[100\\%\\].min-w-0.overflow-x-hidden.overflow-y-auto.md\\:w-\\[55\\%\\].lg\\:w-\\[45\\%\\].xl\\:w-\\[37\\%\\] > div.min-h-\\[250px\\] > div.min-h-\\[128px\\] > section > div:nth-child(1) > div > p.price-sale.text-\\[24px\\].font-bold.text-\\[\\#ec1c24\\] > strong > span",
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "model": "16 DC16250-C7U161W11BLU",
+      "model": "16 DC16250-DC16250-C7U161W11BLU",
       "url": "https://hacom.vn/laptop-dell-16-dc16250-c7u161w11blu-ltdl0641",
       "selector": [
         "#thongtin > div.dark\\:dark-bg-common.min-w-1200.min-w-1650.mx-auto.box-border.rounded-lg.bg-background.px-\\[5px\\].pb-\\[7px\\].text-\\[13px\\].dark\\:text-white.md\\:px-\\[10px\\] > div > div.w-\\[100\\%\\].min-w-0.overflow-x-hidden.overflow-y-auto.md\\:w-\\[55\\%\\].lg\\:w-\\[45\\%\\].xl\\:w-\\[37\\%\\] > div.min-h-\\[250px\\] > div.min-h-\\[128px\\] > section > div:nth-child(1) > div > p.price-sale.text-\\[24px\\].font-bold.text-\\[\\#ec1c24\\] > strong > span",
@@ -498,7 +498,7 @@
       ]
     },
     {
-      "model": "Aspire 7 Gaming A715-59G-53GZ  (NH.QX6SV.00A)",
+      "model": "Aspire 7 Gaming A715-59G-53GZ (NH.QX6SV.00A)",
       "url": "https://hacom.vn/laptop-acer-aspire-7-a715-59g-53gz-ltac1031",
       "selector": [
         "#thongtin > div.dark\\:dark-bg-common.min-w-1200.min-w-1650.mx-auto.box-border.rounded-lg.bg-background.px-\\[5px\\].pb-\\[7px\\].text-\\[13px\\].dark\\:text-white.md\\:px-\\[10px\\] > div > div.w-\\[100\\%\\].min-w-0.overflow-x-hidden.overflow-y-auto.md\\:w-\\[55\\%\\].lg\\:w-\\[45\\%\\].xl\\:w-\\[37\\%\\] > div.min-h-\\[250px\\] > div.min-h-\\[128px\\] > section > div:nth-child(1) > div > p.price-sale.text-\\[24px\\].font-bold.text-\\[\\#ec1c24\\] > strong > span",
@@ -530,7 +530,7 @@
       ]
     },
     {
-      "model": "Aspire 7 Gaming A715-59G-79XF  (NH.QX6SV.008)",
+      "model": "Aspire 7 Gaming A715-59G-79XF (NH.QX6SV.008)",
       "url": "https://hacom.vn/laptop-acer-aspire-7-a715-59g-79xf-ltac1027",
       "selector": [
         "#thongtin > div.dark\\:dark-bg-common.min-w-1200.min-w-1650.mx-auto.box-border.rounded-lg.bg-background.px-\\[5px\\].pb-\\[7px\\].text-\\[13px\\].dark\\:text-white.md\\:px-\\[10px\\] > div > div.w-\\[100\\%\\].min-w-0.overflow-x-hidden.overflow-y-auto.md\\:w-\\[55\\%\\].lg\\:w-\\[45\\%\\].xl\\:w-\\[37\\%\\] > div.min-h-\\[250px\\] > div.min-h-\\[128px\\] > section > div:nth-child(1) > div > p.price-sale.text-\\[24px\\].font-bold.text-\\[\\#ec1c24\\] > strong > span",
@@ -618,7 +618,7 @@
       ]
     },
     {
-      "model": "Aspire Lite AL14-71P-55P9  (NX.D7USV.001)",
+      "model": "Aspire Lite AL14-71P-55P9 (NX.D7USV.001)",
       "url": "https://hacom.vn/laptop-acer-aspire-lite-14-al14-71p-55p9-nx.d7usv.001",
       "selector": [
         "#thongtin > div.dark\\:dark-bg-common.min-w-1200.min-w-1650.mx-auto.box-border.rounded-lg.bg-background.px-\\[5px\\].pb-\\[7px\\].text-\\[13px\\].dark\\:text-white.md\\:px-\\[10px\\] > div > div.w-\\[100\\%\\].min-w-0.overflow-x-hidden.overflow-y-auto.md\\:w-\\[55\\%\\].lg\\:w-\\[45\\%\\].xl\\:w-\\[37\\%\\] > div.min-h-\\[250px\\] > div.min-h-\\[128px\\] > section > div:nth-child(1) > div > p.price-sale.text-\\[24px\\].font-bold.text-\\[\\#ec1c24\\] > strong > span",
@@ -658,7 +658,7 @@
       ]
     },
     {
-      "model": "Aspire Lite AL16-51P-596H  (NX.KWZSV.002)",
+      "model": "Aspire Lite AL16-51P-596H (NX.KWZSV.002)",
       "url": "https://hacom.vn/laptop-acer-aspire-lite-al16-51p-596h-nx.kwzsv.002",
       "selector": [
         "#thongtin > div.dark\\:dark-bg-common.min-w-1200.min-w-1650.mx-auto.box-border.rounded-lg.bg-background.px-\\[5px\\].pb-\\[7px\\].text-\\[13px\\].dark\\:text-white.md\\:px-\\[10px\\] > div > div.w-\\[100\\%\\].min-w-0.overflow-x-hidden.overflow-y-auto.md\\:w-\\[55\\%\\].lg\\:w-\\[45\\%\\].xl\\:w-\\[37\\%\\] > div.min-h-\\[250px\\] > div.min-h-\\[128px\\] > section > div:nth-child(1) > div > p.price-sale.text-\\[24px\\].font-bold.text-\\[\\#ec1c24\\] > strong > span",
@@ -2378,7 +2378,7 @@
       ]
     },
     {
-      "model": "Pro 14 Essential PV14250 71084489",
+      "model": "Pro 14 Essential PV14250-71084489",
       "url": "https://hacom.vn/laptop-dell-pro-14-essential-pv14250-71084489-ltdl0666",
       "selector": [
         "#thongtin > div.dark\\:dark-bg-common.min-w-1200.min-w-1650.mx-auto.box-border.rounded-lg.bg-background.px-\\[5px\\].pb-\\[7px\\].text-\\[13px\\].dark\\:text-white.md\\:px-\\[10px\\] > div > div.w-\\[100\\%\\].min-w-0.overflow-x-hidden.overflow-y-auto.md\\:w-\\[55\\%\\].lg\\:w-\\[45\\%\\].xl\\:w-\\[37\\%\\] > div.min-h-\\[250px\\] > div.min-h-\\[128px\\] > section > div:nth-child(1) > div > p.price-sale.text-\\[24px\\].font-bold.text-\\[\\#ec1c24\\] > strong > span",
@@ -2386,7 +2386,7 @@
       ]
     },
     {
-      "model": "Pro 14 Essential PV14250 71084490",
+      "model": "Pro 14 Essential PV14250-71084490",
       "url": "https://hacom.vn/laptop-dell-pro-14-essential-pv14250-71084490-ltdl0667",
       "selector": [
         "#thongtin > div.dark\\:dark-bg-common.min-w-1200.min-w-1650.mx-auto.box-border.rounded-lg.bg-background.px-\\[5px\\].pb-\\[7px\\].text-\\[13px\\].dark\\:text-white.md\\:px-\\[10px\\] > div > div.w-\\[100\\%\\].min-w-0.overflow-x-hidden.overflow-y-auto.md\\:w-\\[55\\%\\].lg\\:w-\\[45\\%\\].xl\\:w-\\[37\\%\\] > div.min-h-\\[250px\\] > div.min-h-\\[128px\\] > section > div:nth-child(1) > div > p.price-sale.text-\\[24px\\].font-bold.text-\\[\\#ec1c24\\] > strong > span",
@@ -2394,7 +2394,7 @@
       ]
     },
     {
-      "model": "Pro 14 Essential PV14250 PV14250-120U-08512W",
+      "model": "Pro 14 Essential PV14250-PV14250-120U-08512W",
       "url": "https://hacom.vn/laptop-dell-pro-14-essential-pv14250-pv14250-120u-08512w-ltdl0663",
       "selector": [
         "#thongtin > div.dark\\:dark-bg-common.min-w-1200.min-w-1650.mx-auto.box-border.rounded-lg.bg-background.px-\\[5px\\].pb-\\[7px\\].text-\\[13px\\].dark\\:text-white.md\\:px-\\[10px\\] > div > div.w-\\[100\\%\\].min-w-0.overflow-x-hidden.overflow-y-auto.md\\:w-\\[55\\%\\].lg\\:w-\\[45\\%\\].xl\\:w-\\[37\\%\\] > div.min-h-\\[250px\\] > div.min-h-\\[128px\\] > section > div:nth-child(1) > div > p.price-sale.text-\\[24px\\].font-bold.text-\\[\\#ec1c24\\] > strong > span",
@@ -2402,7 +2402,7 @@
       ]
     },
     {
-      "model": "Pro 14 Essential PV14250 PV14250-150U-161TBW",
+      "model": "Pro 14 Essential PV14250-PV14250-150U-161TBW",
       "url": "https://hacom.vn/laptop-dell-pro-14-essential-pv14250-pv14250-150u-161tbw-ltdl0664",
       "selector": [
         "#thongtin > div.dark\\:dark-bg-common.min-w-1200.min-w-1650.mx-auto.box-border.rounded-lg.bg-background.px-\\[5px\\].pb-\\[7px\\].text-\\[13px\\].dark\\:text-white.md\\:px-\\[10px\\] > div > div.w-\\[100\\%\\].min-w-0.overflow-x-hidden.overflow-y-auto.md\\:w-\\[55\\%\\].lg\\:w-\\[45\\%\\].xl\\:w-\\[37\\%\\] > div.min-h-\\[250px\\] > div.min-h-\\[128px\\] > section > div:nth-child(1) > div > p.price-sale.text-\\[24px\\].font-bold.text-\\[\\#ec1c24\\] > strong > span",

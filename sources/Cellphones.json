@@ -2,7 +2,7 @@
   "agency": "Cellphones",
   "urls": [
     {
-      "model": "14 DC14250-C7U161W11SLU",
+      "model": "14 DC14250-DC14250-C7U161W11SLU",
       "url": "https://cellphones.com.vn/laptop-dell-14-dc14250-c7u161w11slu.html",
       "selector": [
         "#productDetailV2 > section > div.box-detail-product.columns.m-0 > div.box-detail-product__box-center.column > div.box-product-price > div.smember-price-label > div.is-flex.is-align-items-center > div",
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "model": "14-ep0220TU (B73VWPA)_16GB",
+      "model": "14-ep0220TU (B73VWPA)",
       "url": "https://cellphones.com.vn/laptop-hp-14-ep0220tu-b73vwpa-16gb.html",
       "selector": [
         "#productDetailV2 > section > div.box-detail-product.columns.m-0 > div.box-detail-product__box-center.column > div.box-product-price > div.smember-price-label > div.is-flex.is-align-items-center > div",
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "model": "15 DC15250-I5U165W11SLU-5",
+      "model": "15 DC15250-DC15250-I5U165W11SLU-5",
       "url": "https://cellphones.com.vn/laptop-dell-15-dc15250-i5u165w11slu-5.html",
       "selector": [
         "#productDetailV2 > section > div.box-detail-product.columns.m-0 > div.box-detail-product__box-center.column > div.box-product-price > div.smember-price-label > div.is-flex.is-align-items-center > div",
@@ -1530,7 +1530,7 @@
       ]
     },
     {
-      "model": "Inspiron 14 5440 N5440-C7U165W11IBD2",
+      "model": "Inspiron 5440-N5440-C7U165W11IBD2",
       "url": "https://cellphones.com.vn/laptop-dell-inspiron-14-5440-n5440-c7u165w11ibd2.html",
       "selector": [
         "#productDetailV2 > section > div.box-detail-product.columns.m-0 > div.box-detail-product__box-center.column > div.box-product-price > div.smember-price-label > div.is-flex.is-align-items-center > div",
@@ -2058,7 +2058,7 @@
       ]
     },
     {
-      "model": "Nitro V 16S ANV16S-71-58WQ",
+      "model": "Nitro V 16S ANV16S-71-58WQ (NH.QXBSV.001)",
       "url": "https://cellphones.com.vn/laptop-acer-gaming-nitro-v-16s-propanel-anv16s-71-58wq.html",
       "selector": [
         "#productDetailV2 > section > div.box-detail-product.columns.m-0 > div.box-detail-product__box-center.column > div.box-product-price > div.smember-price-label > div.is-flex.is-align-items-center > div",

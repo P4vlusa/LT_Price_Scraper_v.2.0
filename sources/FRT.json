@@ -146,7 +146,7 @@
       ]
     },
     {
-      "model": "15 DC15250-i5U165W11SLU",
+      "model": "15 DC15250-DC15250-i5U165W11SLU",
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i5-1334u-i5u165w11slu",
       "selector": [
         "#price-product > div:nth-child(1) > span",
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "model": "15 DC15250-i5U165W11SLU-5",
+      "model": "15 DC15250-DC15250-i5U165W11SLU-5",
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i5-1334u-i5u165w11slu-5",
       "selector": [
         "#price-product > div:nth-child(1) > span",
@@ -306,7 +306,7 @@
       ]
     },
     {
-      "model": "Aspire Lite 14 AI AL14",
+      "model": "Aspire Lite AL14-53P-5387 (NX.DJ4SV.001)",
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-14-ai-al14-53p-5387",
       "selector": [
         "#price-product > div:nth-child(1) > span",
@@ -410,7 +410,7 @@
       ]
     },
     {
-      "model": "Dell Inspiron 15 3530 i7 1355U_71053721",
+      "model": "Inspiron 3530-71053721",
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-15-3530-71053721",
       "selector": [
         "#price-product > div:nth-child(1) > span",
@@ -418,7 +418,7 @@
       ]
     },
     {
-      "model": "Dell Inspiron 15 3530 i7 1355U_P16WD",
+      "model": "Inspiron 3530-P16WD",
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-15-3530-i7-1355u-p16wd",
       "selector": [
         "#price-product > div:nth-child(1) > span",
@@ -458,7 +458,7 @@
       ]
     },
     {
-      "model": "Gigabyte Gaming A16 CMHI2VN893SH i7 13620H",
+      "model": "A16-CMHI2VN893SH",
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cmhi2vn893sh-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
@@ -466,7 +466,7 @@
       ]
     },
     {
-      "model": "Gigabyte Gaming A16 CTHI3VN893SH i7 13620H",
+      "model": "A16-CTHI3VN893SH",
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cthi3vn893sh-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
@@ -474,7 +474,7 @@
       ]
     },
     {
-      "model": "Gigabyte Gaming A16 CVHI3VN893SH i7 13620H",
+      "model": "A16-CVHI3VN893SH",
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cvhi3vn893sh-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
@@ -482,7 +482,7 @@
       ]
     },
     {
-      "model": "Gigabyte Gaming A16 CVHI3VNC93SH i7 13620H/16GB/512GB",
+      "model": "A16-CVHI3VNC93SH",
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cvhi3vnc93sh-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
@@ -490,7 +490,7 @@
       ]
     },
     {
-      "model": "Gigabyte Gaming A16 CWHI3VN864SH i7 13620H/32GB/1TB",
+      "model": "A16-CWHI3VN864SH",
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cwhi3vn864sh-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
@@ -498,7 +498,7 @@
       ]
     },
     {
-      "model": "Gigabyte Gaming A16 CWHI3VNC94SH i7 13620H",
+      "model": "A16-CWHI3VNC94SH",
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cwhi3vnc94sh-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
@@ -506,7 +506,7 @@
       ]
     },
     {
-      "model": "Gigabyte Gaming G6X 9MG i7 13650HX (9RC6L9MGHSIIX1VN000)",
+      "model": "G6X 9MG-9RC6L9MGHSIIX1VN000",
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-g6x-9mg-i7-13650hx-9rc6l9mghsiix1vn000",
       "selector": [
         "#price-product > div:nth-child(1) > span",
