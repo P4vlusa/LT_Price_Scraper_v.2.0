@@ -2,7 +2,7 @@ name: Scrape Cloud
 
 on:
   schedule:
-    - cron: "0 2 * * *"   # 9h sáng VN
+    - cron: "0  * * *"   # 9h sáng VN
   workflow_dispatch:
 
 jobs:
