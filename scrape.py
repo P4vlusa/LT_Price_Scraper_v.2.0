@@ -153,7 +153,7 @@ def scrape_requests(tasks):
             t = futures[future]
             price, source = future.result()
 
-            ts = time.time() + 7 * 3600
+            ts = time.time() + 0 * 3600
             date = time.strftime("%Y-%m-%d", time.localtime(ts))
             hour = time.strftime("%H:%M:%S", time.localtime(ts))
 
