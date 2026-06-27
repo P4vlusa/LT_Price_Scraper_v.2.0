@@ -1296,6 +1296,126 @@
         "#price-product > div:nth-child(1) > span",
         "#price-product > div:nth-child(1) > span"
       ]
+    },
+    {
+      "model": "Aspire Lite AL14-45P-R7Z3 (NX.DPESV.002)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-14-al14-45p-r7z3",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "VivoBook 14 M1407KA-LY849W",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-14-m1407ka-ly849w-r5-330",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "14 DC14255-DC4AI5278W1",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-14-dc14255-ryzen-ai-5-330-dc4ai5278w1",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Victus 15-fb3115AX (BX9C9PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-gaming-victus-15-fb3115ax-r7-7445hs-bx9c9pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "OmniBook X Flip 14-fm0086TU (BZ7Q0PA)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-x-flip-14-fm0086tu-ultra-5-226v-bz7q0pa",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "LOQ Essential 15IRX11-83SC003RVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-loq-e-15irx11-i5-13450hx-83sc003rvn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "V14 G5 IRL-83HD005JVN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-v14-g5-irl-intel-core-i5-13420h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Crosshair 16 HX AI D2XWGKG-034VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-crosshair-16-hx-d2xwgkg-034vn-u7-255hx",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Creator M16 HX C14VFG-040VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-prestige-13-ai-evo-a2vmg-040vn",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Stealth 16 AI+ B3WF-007VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-stealth-16-ai-b3wf-007vn-u9-386h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Stealth 16 AI+ B3WG-008VN",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-stealth-16-ai-b3wg-008vn-u9-386h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Gaming Aspire 7 A715-59G-53GZ (NH.QX6SV.00A)",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-7-gaming-a715-59g-53gz-core-5-210h",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "16 Plus DB16250-X65NW7",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-16-plus-db16250-ultra-7-256v",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Inspiron 5441-71069158",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-14-5441-x1-26-100-71069158",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
+    },
+    {
+      "model": "Inspiron 5440-N5440-C7U165W11IBD2",
+      "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-5440-core-7-150u-c7u165w11ibd2",
+      "selector": [
+        "#price-product > div:nth-child(1) > span",
+        "#price-product > div:nth-child(1) > span"
+      ]
     }
   ]
 }

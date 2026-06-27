@@ -10494,6 +10494,150 @@
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
         "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
       ]
+    },
+    {
+      "model": "Gaming V16 V3607VJ-TK189W",
+      "url": "https://www.anphatpc.com.vn/laptop-asus-gaming-v16-v3607vj-tk189w.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G14 GU405AR-SY016W",
+      "url": "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g14-gu405ar-sy016w.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AM-TB032W",
+      "url": "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g16-gu606am-tb032w.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AR-TB027W",
+      "url": "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g16-gu606ar-tb027w.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AX-TB042WS",
+      "url": "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g16-gu606ax-tb042ws.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "Modern 15 F1MG-1225VN",
+      "url": "https://www.anphatpc.com.vn/laptop-msi-modern-15-f1mg-1225vn.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "240 G10 (B93GZAT)",
+      "url": "https://www.anphatpc.com.vn/laptop-hp-240-g10-b93gzat.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "Cyborg 15 A13VE-2410VN",
+      "url": "https://www.anphatpc.com.vn/laptop-msi-gaming-cyborg-15-a13ve-2410vn.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "Gaming Aspire 7 A715-59G-59RD (NH.DXUSV.001)",
+      "url": "https://www.anphatpc.com.vn/laptop-acer-gaming-aspire-7-a715-59g-59rd-nh.dxusv.001.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "14 DC14250-71092478",
+      "url": "https://www.anphatpc.com.vn/laptop-dell-14-dc14250-71092478.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "16 DC16250-71092481",
+      "url": "https://www.anphatpc.com.vn/laptop-dell-16-dc16250-71092481.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G14 GA403GM-SY164W",
+      "url": "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g14-ga403gm-sy164w.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AW-TB052WS",
+      "url": "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g16-gu606aw-tb052ws.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AW-TB121W",
+      "url": "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g16-gu606aw-tb121w.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "Zenbook 14 UM3406GA-QD075W",
+      "url": "https://www.anphatpc.com.vn/laptop-asus-zenbook-14-um3406ga-qd075w.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
+    },
+    {
+      "model": "Zenbook S 14 UX5406AA-SU348W",
+      "url": "https://www.anphatpc.com.vn/laptop-asus-zenbook-s-14-ux5406aa-su348w.html",
+      "selector": [
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+        "body > section > div.container > div.bg-white.product-info-container > div.pro-info-center > div.pro_info-price-container > table > tbody > tr:nth-child(2) > td:nth-child(2) > b"
+      ]
     }
   ]
 }

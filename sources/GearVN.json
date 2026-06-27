@@ -2472,6 +2472,38 @@
         "#detail-product > div.product-body > div > div > div:nth-child(1) > div > div > div > div.col-lg-7.col-md-12.col-12.product-info.order-2 > div > div > div > div.info-bottom > div.product-price.has-countdown.notyet > span.pro-price.a",
         "#detail-product > div.product-body > div > div > div:nth-child(1) > div > div > div > div.col-lg-7.col-md-12.col-12.product-info.order-2 > div > div > div > div.info-bottom > div.product-price.has-countdown.notyet > span.pro-price.a"
       ]
+    },
+    {
+      "model": "Modern 16S G3MG-016VN",
+      "url": "https://gearvn.com/products/laptop-msi-modern-16s-g3mg-016vn-core-7-350-16gb-1tb-16-fhd-win-11",
+      "selector": [
+        "#detail-product > div.product-body > div > div > div:nth-child(1) > div > div > div > div.col-lg-7.col-md-12.col-12.product-info.order-2 > div > div > div > div.info-bottom > div.product-price.has-countdown.notyet > span.pro-price.a",
+        "#detail-product > div.product-body > div > div > div:nth-child(1) > div > div > div > div.col-lg-7.col-md-12.col-12.product-info.order-2 > div > div > div > div.info-bottom > div.product-price.has-countdown.notyet > span.pro-price.a"
+      ]
+    },
+    {
+      "model": "Modern 16S AI+ G3MG-058VN",
+      "url": "https://gearvn.com/products/laptop-msi-modern-16s-ai-g3mg-058vn-core-ultra-7-355-16gb-1tb-16-fhd-oled-win-11",
+      "selector": [
+        "#detail-product > div.product-body > div > div > div:nth-child(1) > div > div > div > div.col-lg-7.col-md-12.col-12.product-info.order-2 > div > div > div > div.info-bottom > div.product-price.has-countdown.notyet > span.pro-price.a",
+        "#detail-product > div.product-body > div > div > div:nth-child(1) > div > div > div > div.col-lg-7.col-md-12.col-12.product-info.order-2 > div > div > div > div.info-bottom > div.product-price.has-countdown.notyet > span.pro-price.a"
+      ]
+    },
+    {
+      "model": "Modern 15 F1MG-1225VN",
+      "url": "https://gearvn.com/products/laptop-msi-modern-15-f1mg-1225vn-core-5-120u-16gb-512gb-15-6-fhd-win11",
+      "selector": [
+        "#detail-product > div.product-body > div > div > div:nth-child(1) > div > div > div > div.col-lg-7.col-md-12.col-12.product-info.order-2 > div > div > div > div.info-bottom > div.product-price.has-countdown.notyet > span.pro-price.a",
+        "#detail-product > div.product-body > div > div > div:nth-child(1) > div > div > div > div.col-lg-7.col-md-12.col-12.product-info.order-2 > div > div > div > div.info-bottom > div.product-price.has-countdown.notyet > span.pro-price.a"
+      ]
+    },
+    {
+      "model": "Aspire Go 15 AG15-72P-776J (NX.JRRSV.006)",
+      "url": "https://gearvn.com/products/laptop-acer-aspire-go-15-ag15-72p-776j-15-6-fhdips-c7-150u-1-16gb-512gb-win",
+      "selector": [
+        "#detail-product > div.product-body > div > div > div:nth-child(1) > div > div > div > div.col-lg-7.col-md-12.col-12.product-info.order-2 > div > div > div > div.info-bottom > div.product-price.has-countdown.notyet > span.pro-price.a",
+        "#detail-product > div.product-body > div > div > div:nth-child(1) > div > div > div > div.col-lg-7.col-md-12.col-12.product-info.order-2 > div > div > div > div.info-bottom > div.product-price.has-countdown.notyet > span.pro-price.a"
+      ]
     }
   ]
 }

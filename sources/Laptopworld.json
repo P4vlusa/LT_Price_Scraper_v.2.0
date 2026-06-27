@@ -8240,6 +8240,254 @@
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
         "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
       ]
+    },
+    {
+      "model": "Cyborg 15 A13VE-2410VN",
+      "url": "https://laptopworld.vn/laptop-msi-cyborg-15-black-edition-a13ve-2410vn",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "HyperX OMEN 15-ga0091TX (D72D7PA)",
+      "url": "https://laptopworld.vn/laptop-hp-hyperx-omen-gaming-15-ga0091tx-d72d7pa",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "HyperX OMEN 15-ga0092TX (D72D8PA)",
+      "url": "https://laptopworld.vn/laptop-hp-hyperx-omen-gaming-15-ga0092tx-d72d8pa",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "OmniBook 5 14-hh0072TU (D72CQPA)",
+      "url": "https://laptopworld.vn/laptop-hp-omnibook-5-ai-14-hh0072tu-d72cqpa",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "OmniBook 5 14-hh0073TU (D72CRPA)",
+      "url": "https://laptopworld.vn/laptop-hp-omnibook-5-ai-14-hh0073tu-d72crpa",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "OmniBook 5 14-hh0074TU (D72CSPA)",
+      "url": "https://laptopworld.vn/laptop-hp-omnibook-5-ai-14-hh0074tu-d72cspa",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "OmniBook X Flip 2-in-1 14-kb0048TU (D72BYPA)",
+      "url": "https://laptopworld.vn/laptop-hp-omnibook-x-flip-14-kb0048tu-d72bypa",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G14 GU405AR-SY016W",
+      "url": "https://laptopworld.vn/laptop-asus-rog-zephyrus-g14-gu405ar-sy016w",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AM-TB032W",
+      "url": "https://laptopworld.vn/laptop-asus-rog-zephyrus-g16-gu606am-tb032w",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AR-TB027W",
+      "url": "https://laptopworld.vn/laptop-asus-rog-zephyrus-g16-gu606ar-tb027w",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AX-TB042WS",
+      "url": "https://laptopworld.vn/laptop-asus-rog-zephyrus-g16-gu606ax-tb042ws",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "Crosshair 16 Max HX E2WGXK-051VN",
+      "url": "https://laptopworld.vn/laptop-msi-crosshair-16-max-hx-e2wgxk-051vn",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "15 DC15250-71100520",
+      "url": "https://laptopworld.vn/laptop-dell-15-dc15250-71100520",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "14 DC14250-71100515",
+      "url": "https://laptopworld.vn/laptop-dell-14-dc14250-71100515",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "16 DC16250-71100513",
+      "url": "https://laptopworld.vn/laptop-dell-16-dc16250-71100513",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "XPS 13 9350-71100521",
+      "url": "https://laptopworld.vn/laptop-dell-xps-13-9350-71100521",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "14 DC14255-71100517",
+      "url": "https://laptopworld.vn/laptop-dell-14-dc14255-71100517",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "Inspiron 5441-71096460",
+      "url": "https://laptopworld.vn/laptop-dell-inspiron-5441-71096460",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "Yoga Pro 7 15ASH11-83W5000SVN",
+      "url": "https://laptopworld.vn/laptop-lenovo-yoga-pro-7-15ash11-83w5000svn",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 14IWC11-83RQ002PVN",
+      "url": "https://laptopworld.vn/laptop-lenovo-ideapad-slim-3-14iwc11-83rq002pvn",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "ExpertBook B9 B9406CAA-X7642TW",
+      "url": "https://laptopworld.vn/laptop-asus-expertbook-b9-b9406caa-x7642tw",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "Cyborg 15 Max C13WE-422VN",
+      "url": "https://laptopworld.vn/laptop-msi-cyborg-15-max-c13we-422vn",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "Cyborg 15 Max C13WF-421VN",
+      "url": "https://laptopworld.vn/laptop-msi-cyborg-15-max-c13wf-421vn",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "Crosshair 16 HX E14WFK-074VN",
+      "url": "https://laptopworld.vn/laptop-msi-crosshair-16-hx-e14wfk-074vn",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "Crosshair 16 HX E14WFK-075VN",
+      "url": "https://laptopworld.vn/laptop-msi-crosshair-16-hx-e14wfk-075vn",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "Crosshair 16 Max HX E2WGXK-052VN",
+      "url": "https://laptopworld.vn/laptop-msi-crosshair-16-max-hx-e2wgxk-052vn",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "Raider 18 Max HX A2WI-1285VN",
+      "url": "https://laptopworld.vn/laptop-msi-raider-18-max-hx-a2wi-1285vn",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "Raider 16 HX B2WI-257VN",
+      "url": "https://laptopworld.vn/laptop-msi-raider-16-hx-b2wi-257vn",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AW-TB121W",
+      "url": "https://laptopworld.vn/laptop-asus-rog-zephyrus-g16-gu606aw-tb121w",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AW-TB052WS",
+      "url": "https://laptopworld.vn/laptop-asus-rog-zephyrus-g16-gu606aw-tb052ws",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
+    },
+    {
+      "model": "Gaming Aspire 7 A715-59G-59RD (NH.DXUSV.001)",
+      "url": "https://laptopworld.vn/laptop-acer-gaming-aspire-7-a715-59g-59rd-nh-dxusv-001",
+      "selector": [
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b",
+        "#wrap-product-price > div.price-khuyemai.d-flex.align-items > div > b"
+      ]
     }
   ]
 }

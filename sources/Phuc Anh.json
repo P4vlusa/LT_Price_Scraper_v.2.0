@@ -3856,6 +3856,198 @@
         "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
         "#product-info-price > div > div.pd-special-price > p"
       ]
+    },
+    {
+      "model": "Gaming VivoBook 16X K3605VC-RP431W",
+      "url": "https://www.phucanh.vn/laptop-asus-gaming-vivobook-16x-k3605vc-rp431w.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus DUO GX651AX-SR050WS",
+      "url": "https://www.phucanh.vn/laptop-asus-gaming-rog-zephyrus-g16-gx651ax-sr050ws.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G14 GU405AR-SY016W",
+      "url": "https://www.phucanh.vn/laptop-asus-gaming-rog-zephyrus-g14-gu405ar-sy016w.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AM-TB032W",
+      "url": "https://www.phucanh.vn/laptop-asus-gaming-rog-zephyrus-g16-gu606am-tb032w.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AR-TB027W",
+      "url": "https://www.phucanh.vn/laptop-asus-gaming-rog-zephyrus-g16-gu606ar-tb027w.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AX-TB042WS",
+      "url": "https://www.phucanh.vn/laptop-asus-gaming-rog-zephyrus-g16-gu606ax-tb042ws.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "ThinkPad E14 Gen 7-21SX002NVA",
+      "url": "https://www.phucanh.vn/laptop-lenovo-thinkpad-e14-gen-7-21sx002nva.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "ThinkPad E14 Gen 7-21SX002PVA",
+      "url": "https://www.phucanh.vn/laptop-lenovo-thinkpad-e14-gen-7-21sx002pva.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "ThinkPad X1 Carbon Gen 13-21NS010CVN",
+      "url": "https://www.phucanh.vn/laptop-lenovo-thinkpad-x1-carbon-gen-13-aura-edition-21ns010cvn.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "ThinkPad X1 Carbon Gen 13-21NS010JVN",
+      "url": "https://www.phucanh.vn/laptop-lenovo-thinkpad-x1-carbon-gen-13-aura-edition-21ns010jvn.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "VivoBook 14 X1405VA-LY623W",
+      "url": "https://www.phucanh.vn/laptop-asus-vivobook-14-x1405va-ly623w.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "VivoBook S14 S3407CA-LY096WS",
+      "url": "https://www.phucanh.vn/laptop-asus-vivobook-s14-s3407ca-ly096ws.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "ExpertBook P3606CCAP-U516W",
+      "url": "https://www.phucanh.vn/laptop-asus-expertbook-p3606ccap-u516w.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "ExpertBook P3606CCAP-U716W",
+      "url": "https://www.phucanh.vn/laptop-asus-expertbook-p3606ccap-u716w.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "ExpertBook Ultra B9406CAA-X7642TW",
+      "url": "https://www.phucanh.vn/laptop-asus-expertbook-ultra-b9406caa-x7642tw.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AW-TB052WS",
+      "url": "https://www.phucanh.vn/laptop-asus-gaming-rog-zephyrus-g16-gu606aw-tb052ws.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AW-TB121W",
+      "url": "https://www.phucanh.vn/laptop-asus-gaming-rog-zephyrus-g16-gu606aw-tb121w.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "Vivobook 14 X1404MA-EB029W",
+      "url": "https://www.phucanh.vn/laptop-asus-vivobook-14-x1404ma-eb029w.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "Zenbook S14 OLED UX5406AA-SU348W",
+      "url": "https://www.phucanh.vn/laptop-asus-zenbook-s14-oled-ux5406aa-su348w.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "15 DC15250-CPH992",
+      "url": "https://www.phucanh.vn/laptop-dell-15-dc15250-cph992.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "Pro 14 Essential PV14250 71092353",
+      "url": "https://www.phucanh.vn/laptop-dell-pro-14-essential-pv14250-71092353.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "Pro 14 PC14250-42DLT-PC14U701",
+      "url": "https://www.phucanh.vn/laptop-dell-pro-14-pc14250-42dlt-pc14u701.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "Pro 14 Plus PB14250-42DLT-PB14U503",
+      "url": "https://www.phucanh.vn/laptop-dell-pro-14-plus-pb14250-42dlt-pb14u503.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
+    },
+    {
+      "model": "IdeaPad Slim 3 14IWC11-83RQ002PVN",
+      "url": "https://www.phucanh.vn/laptop-lenovo-ideapad-slim-3-14iwc11-83rq002pvn.html",
+      "selector": [
+        "#product-info-price > div > div.pd-special-price > p.sale-price.pd-price",
+        "#product-info-price > div > div.pd-special-price > p"
+      ]
     }
   ]
 }

@@ -6130,6 +6130,216 @@
         "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
         "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
       ]
+    },
+    {
+      "model": "ExpertBook P1 P1403CVA-S61761",
+      "url": "https://www.ankhang.vn/laptop-asus-expertbook-p1-p1403cva-s61761.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "ExpertBook P5 P5405CSA-NZ0017W",
+      "url": "https://www.ankhang.vn/laptop-asus-expertbook-p5-p5405csa-nz0017w-ultra7.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G14 GU405AR-SY016W",
+      "url": "https://www.ankhang.vn/laptop-asus-rog-zephyrus-g14-gu405ar-sy016w.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AM-TB032W",
+      "url": "https://www.ankhang.vn/laptop-asus-rog-zephyrus-g16-gu606am-tb032w.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AR-TB027W",
+      "url": "https://www.ankhang.vn/laptop-asus-rog-zephyrus-g16-gu606ar-tb027w.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus G16 GU606AX-TB042WS",
+      "url": "https://www.ankhang.vn/laptop-asus-rog-zephyrus-g16-gu606ax-tb042ws.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "ThinkBook 14 G9 IRL-21UY008HVA",
+      "url": "https://www.ankhang.vn/laptop-lenovo-thinkbook-14-g9-irl-21uy008hva.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "ThinkBook 14 G9 IRL-21UY008TVN",
+      "url": "https://www.ankhang.vn/laptop-lenovo-thinkbook-14-g9-irl-21uy008tvn.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "Katana 15 HX B14WFK-294VN",
+      "url": "https://www.ankhang.vn/laptop-msi-katana-15-hx-b14wfk-294vn.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "Gaming Aspire 7 A715-59G-55MD (NH.QX6SV.005)",
+      "url": "https://www.ankhang.vn/laptop-acer-gaming-aspire-7-a715-59g-55md-nh-qx6sv-005.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "Gaming Aspire 7 A715-59G-59RD (NH.DXUSV.001)",
+      "url": "https://www.ankhang.vn/laptop-acer-gaming-aspire-7-a715-59g-59rd-nh-dxusv-001.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "Nitro V 16 ANV16S-61-R9ZV NH.QXPSV.002",
+      "url": "https://www.ankhang.vn/laptop-acer-gaming-nitro-v-16-ai-propanel-anv16s-61-r9zv-nh-qxpsv-002.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "ExpertBook B9 B9406CAA-X7642TW",
+      "url": "https://www.ankhang.vn/laptop-asus-expertbook-b9-b9406caa-x7642tw.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "Crosshair 16 HX E14WFK-074VN",
+      "url": "https://www.ankhang.vn/laptop-msi-crosshair-16-hx-e14wfk-074vn.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "Crosshair 16 HX E14WFK-075VN",
+      "url": "https://www.ankhang.vn/laptop-msi-crosshair-16-hx-e14wfk-075vn.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "Crosshair 16 Max HX E2WGXK-051VN",
+      "url": "https://www.ankhang.vn/laptop-msi-crosshair-16-max-hx-e2wgxk-051vn.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "Crosshair 16 Max HX E2WGXK-052VN",
+      "url": "https://www.ankhang.vn/laptop-msi-crosshair-16-max-hx-e2wgxk-052vn.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "Cyborg 15 Max C13WE-422VN",
+      "url": "https://www.ankhang.vn/laptop-msi-cyborg-15-max-c13we-422vn.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "Cyborg 15 Max C13WF-421VN",
+      "url": "https://www.ankhang.vn/laptop-msi-cyborg-15-max-c13wf-421vn.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "Raider 16 HX B2WI-257VN",
+      "url": "https://www.ankhang.vn/laptop-msi-raider-16-hx-b2wi-257vn.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
+    },
+    {
+      "model": "Raider 18 Max HX A2WI-1285VN",
+      "url": "https://www.ankhang.vn/laptop-msi-raider-18-max-hx-a2wi-1285vn.html",
+      "selector": [
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price",
+        "#overview-left > table > tbody > tr:nth-child(2) > td:nth-child(2) > span.pro-price"
+      ]
     }
   ]
 }

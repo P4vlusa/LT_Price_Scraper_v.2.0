@@ -1808,6 +1808,78 @@
         "#pro-price > span.price-now",
         "#pro-price > span.price-now"
       ]
+    },
+    {
+      "model": "Crosshair 16 Max HX E2WGXK-052VN",
+      "url": "https://xgear.net/products/laptop-gaming-msi-crosshair-16-max-hx-e2wgxk-052vn",
+      "selector": [
+        "#pro-price > span.price-now",
+        "#pro-price > span.price-now"
+      ]
+    },
+    {
+      "model": "Crosshair 16 Max HX E2WGXK - 051VN",
+      "url": "https://xgear.net/products/laptop-gaming-msi-crosshair-16-max-hx-e2wgxk-051vn",
+      "selector": [
+        "#pro-price > span.price-now",
+        "#pro-price > span.price-now"
+      ]
+    },
+    {
+      "model": "Cyborg 15 A13VEO-2610VN",
+      "url": "https://xgear.net/products/laptop-gaming-msi-cyborg-15-black-edition-a13veo-2610vn",
+      "selector": [
+        "#pro-price > span.price-now",
+        "#pro-price > span.price-now"
+      ]
+    },
+    {
+      "model": "Cyborg 15 A13VEO-2608VN",
+      "url": "https://xgear.net/products/laptop-gaming-msi-cyborg-15-black-edition-a13veo-2608vn",
+      "selector": [
+        "#pro-price > span.price-now",
+        "#pro-price > span.price-now"
+      ]
+    },
+    {
+      "model": "Crosshair 16 HX E14VFK-074VN",
+      "url": "https://xgear.net/products/laptop-gaming-msi-crosshair-16-hx-e14vfk-074vn",
+      "selector": [
+        "#pro-price > span.price-now",
+        "#pro-price > span.price-now"
+      ]
+    },
+    {
+      "model": "Crosshair 16 HX E14VFK-075VN",
+      "url": "https://xgear.net/products/laptop-gaming-msi-crosshair-16-hx-e14vfk-075vn",
+      "selector": [
+        "#pro-price > span.price-now",
+        "#pro-price > span.price-now"
+      ]
+    },
+    {
+      "model": "Raider 16 HX B2WI-257VN",
+      "url": "https://xgear.net/products/laptop-gaming-msi-raider-16-hx-b2wi-257vn",
+      "selector": [
+        "#pro-price > span.price-now",
+        "#pro-price > span.price-now"
+      ]
+    },
+    {
+      "model": "MSI Raider 18 Max HX A2WI-1285VN",
+      "url": "https://xgear.net/products/laptop-gaming-msi-raider-18-max-hx-a2wi-1285vn",
+      "selector": [
+        "#pro-price > span.price-now",
+        "#pro-price > span.price-now"
+      ]
+    },
+    {
+      "model": "Victus 16-r0228TX (9Q979PA)",
+      "url": "https://xgear.net/products/laptop-gaming-hp-victus-16-r0228tx-9q979pa",
+      "selector": [
+        "#pro-price > span.price-now",
+        "#pro-price > span.price-now"
+      ]
     }
   ]
 }

@@ -5,329 +5,392 @@
       "model": "TUF Gaming A15 FA506NCG-HN184W",
       "url": "https://memoryzone.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn184w",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkBook 14 G8 IRL-21SG007MVA",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkbook-14-gen-8-irl-21sg007mva",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "OmniBook 7 AI 14-fr0024TU (C1MN0PA)",
       "url": "https://memoryzone.com.vn/laptop-hp-omnibook-7-14-fr0024tu-c1mn0pa",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Legion 5 15IRX10-83LY00HQVN",
       "url": "https://memoryzone.com.vn/laptop-lenovo-legion-5-15irx10-83ly00hqvn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "LOQ Essential 15ARP10E-83S0004FVN",
       "url": "https://memoryzone.com.vn/laptop-lenovo-loq-essential-15arp10e-83s0004fvn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkPad E16 Gen 3-21SR002LVA",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-e16-gen-3-21sr002lva",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkPad T14s Gen 6-21R10003VA",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-t14-gen-6-21r10003va",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ROG Zephyrus G14 GA403WM-QS051WS",
       "url": "https://memoryzone.com.vn/laptop-gaming-asus-rog-zephyrus-g14-ga403wm-qs051ws",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ROG Strix G16 G614PH-S5101W",
       "url": "https://memoryzone.com.vn/laptop-gaming-asus-rog-strix-g16-g614ph-s5101w-ryzen-9-8940hx-rtx-5050-8gb-ram-16gb-ddr5-ssd-512gb-16-inch-ips-2-5k-240hz-100-dci-p3-win-11",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ROG Zephyrus G14 GA403WP-QS045WS",
       "url": "https://memoryzone.com.vn/laptop-gaming-asus-rog-zephyrus-g14-ga403wp-qs045ws",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkPad X13 Gen 6-21RK00AKVA",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-x13-gen-6-21rk00akva",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ExpertBook P1 P1403CVA-C5H16-50W",
       "url": "https://memoryzone.com.vn/laptop-asus-expertbook-p1-p1403cva-c5h16-50w",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ExpertBook P3 P3405CVA-LY0363",
       "url": "https://memoryzone.com.vn/laptop-asus-expertbook-p3-p3405cva-ly0363",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Gaming V16 V3607VH-RP084W",
       "url": "https://memoryzone.com.vn/laptop-asus-gaming-v16-v3607vh-rp084w",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Gaming V16 V3607VU-RP216W",
       "url": "https://memoryzone.com.vn/laptop-asus-gaming-v16-v3607vu-rp216w",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "TUF Gaming F16 FX608JHR-RV037W",
       "url": "https://memoryzone.com.vn/laptop-asus-tuf-gaming-f16-fx608jhr-rv037w",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "TUF Gaming F16 FX608JMI-TU241W",
       "url": "https://memoryzone.com.vn/laptop-asus-tuf-gaming-f16-fx608jmi-tu241w",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Raider 18 HX AI A2XWJG-692VN",
       "url": "https://memoryzone.com.vn/laptop-gaming-msi-raider-18-hx-ai-a2xwjg-692vn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Vector 16 HX AI A2XWHG-010VN",
       "url": "https://memoryzone.com.vn/laptop-gaming-msi-vector-16-hx-ai-a2xwhg-010vn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "A16 GA6H-CMHI2MY893SH",
       "url": "https://memoryzone.com.vn/laptop-gigabyte-gaming-a16-ga6h-cmhi2my893sh",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "A16 GA6H-CVHI3VNC94SH",
       "url": "https://memoryzone.com.vn/laptop-gigabyte-gaming-a16-ga6h-cvhi3vnc94sh",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Legion 5 15IRX10-83LY00HRVN",
       "url": "https://memoryzone.com.vn/laptop-lenovo-legion-5-15irx10-83ly00hrvn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "LOQ 15IRX10-83JE00PEVN",
       "url": "https://memoryzone.com.vn/laptop-lenovo-loq-15irx10-83je00pevn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "LOQ 15IRX10-83JE01AGVN",
       "url": "https://memoryzone.com.vn/laptop-lenovo-loq-15irx10-83je01agvn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "LOQ 15IRX9-83DV01H3VN",
       "url": "https://memoryzone.com.vn/laptop-lenovo-loq-15irx9-83dv01h3vn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "LOQ Essential 15ARP10E-83S0000DVN",
       "url": "https://memoryzone.com.vn/laptop-lenovo-loq-essential-15arp10e-83s0000dvn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkBook 16 G8 IRL-21SH0097VN",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkbook-16-g8-irl-21sh0097vn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkPad E14 Gen 6-21M7004WVA",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-e14-gen-6-21m7004wva",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkPad E14 Gen 7-21U2003PVA",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-e14-gen-7-21u2003pva",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkPad E14 Gen 7-21U2006FVA",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-e14-gen-7-21u2006fva",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkPad E14 Gen 7-21U2006GVA",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-e14-gen-7-21u2006gva",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkPad E16 Gen 3-21SR00A6VA",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-e16-gen-3-21sr00a6va",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkPad T14s Gen 6-21QX00LEVA",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-t14s-gen-6-21qx00leva",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkPad T14s Gen 6-21QX00LHVA",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-t14s-gen-6-21qx00lhva",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkPad T14s Gen 6-21R10004VA",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-t14s-gen-6-21r10004va",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkPad X1 Carbon Gen 13-21NS010CVN",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-x1-carbon-gen-13-21ns010cvn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "ThinkPad X13 Gen 6-21RK00ANVA",
       "url": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-x13-gen-6-21rk00anva",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "V14 G5 IRL-83HD0035VN",
       "url": "https://memoryzone.com.vn/laptop-lenovo-v14-g5-irl-83hd0035vn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Cyborg 15 A13VEK-2089VN",
       "url": "https://memoryzone.com.vn/laptop-msi-cyborg-15-a13vek-2089vn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Cyborg 15 B2RWFKG-047VN",
       "url": "https://memoryzone.com.vn/laptop-msi-cyborg-15-b2rwfkg-047vn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Katana 15 B13VEK-2440VN",
       "url": "https://memoryzone.com.vn/laptop-msi-katana-15-b13vek-2440vn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Katana 15 HX B14WEK-027VN",
       "url": "https://memoryzone.com.vn/laptop-msi-katana-15-hx-b14wek-027vn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Katana 15 HX B14WEK-286VN",
       "url": "https://memoryzone.com.vn/laptop-msi-katana-15-hx-b14wek-286vn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Modern 14 F1MG-432VN",
       "url": "https://memoryzone.com.vn/laptop-msi-modern-14-f1mg-432vn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Prestige 13 AI+ Evo A2VMG-040VN",
       "url": "https://memoryzone.com.vn/laptop-msi-prestige-13-ai-evo-a2vmg-040vn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Stealth 16 AI+ B3WF-007VN",
       "url": "https://memoryzone.com.vn/laptop-msi-stealth-16-ai-b3wf-007vn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     },
     {
       "model": "Stealth 16 AI+ B3WG-008VN",
       "url": "https://memoryzone.com.vn/laptop-msi-stealth-16-ai-b3wf-008vn",
       "selector": [
-        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span"
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
+      ]
+    },
+    {
+      "model": "ExpertBook P1 P1503CVA-C5H16-63WS",
+      "url": "https://memoryzone.com.vn/laptop-asus-expertbook-p1-p1503cva-c5h16-63ws",
+      "selector": [
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
+      ]
+    },
+    {
+      "model": "ROG Zephyrus DUO 16 GX651AX-SR050WS",
+      "url": "https://memoryzone.com.vn/laptop-asus-rog-zephyrus-duo-16-gx651ax-sr050ws",
+      "selector": [
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > span.special-price > span",
+        "#add-to-cart-form > div.ae-flashsale.disabled > div > div.flashsale__product > div.price-box > div.special-price > span"
       ]
     }
   ]
