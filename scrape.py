@@ -16,12 +16,56 @@ CLOUDFLARE_DEALERS = ["FRT","Mobile World","Phong Vu","An Phat","Phuc Anh", "An 
 
 USE_PLAYWRIGHT = os.getenv("CLOUD_MODE") != "1"
 if USE_PLAYWRIGHT:
-    from playwright.async_api import async_playwright
+    try:
+        from playwright.async_api import async_playwright
+    except ImportError:
+        USE_PLAYWRIGHT = False
 
 session = requests.Session()
 session.headers.update({
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 })
+
+
+def extract_price_from_text(text):
+    if not text:
+        return None
+
+    cleaned = text.replace(".", "").replace(",", "")
+    digits = "".join(ch for ch in cleaned if ch.isdigit())
+    if not digits:
+        return None
+
+    numeric_value = int(digits)
+    if numeric_value < 1000:
+        return None
+
+    return str(numeric_value)
+
+
+def try_extract_price_from_element(element):
+    if not element:
+        return None
+
+    candidates = []
+    for attr in ["content", "value", "data-price", "data-product-price", "data-price-value"]:
+        value = element.get(attr)
+        if value:
+            candidates.append(value)
+
+    for candidate in candidates:
+        price = extract_price_from_text(candidate)
+        if price:
+            return price
+
+    text = " ".join(element.stripped_strings)
+    if text:
+        price = extract_price_from_text(text)
+        if price:
+            return price
+
+    return None
+
 
 # ============================
 # REQUESTS SCRAPER
@@ -35,8 +79,17 @@ def fetch_price_requests(url, selectors):
         for sel in selectors:
             el = soup.select_one(sel)
             if el:
-                price = "".join(filter(str.isdigit, el.text))
-                if len(price) > 4:
+                price = try_extract_price_from_element(el)
+                if price:
+                    return price, sel
+
+            if not el:
+                continue
+
+            fallback_elements = soup.select(f"{sel} *")
+            for fallback_el in fallback_elements:
+                price = try_extract_price_from_element(fallback_el)
+                if price:
                     return price, sel
 
         return "N/A", "not-found"
@@ -58,8 +111,8 @@ async def fetch_price_playwright_async(context, task):
                 el = page.locator(sel).first
                 if await el.count() > 0:
                     text = await el.inner_text(timeout=5000)
-                    price = "".join(filter(str.isdigit, text))
-                    if len(price) > 4:
+                    price = extract_price_from_text(text)
+                    if price:
                         await page.close()
                         return task, price, sel
             except:
