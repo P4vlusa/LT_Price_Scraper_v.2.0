@@ -5,8 +5,13 @@ import asyncio
 import requests
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from googleapiclient.discovery import build
-from google.oauth2.service_account import Credentials
+
+try:
+    from googleapiclient.discovery import build
+    from google.oauth2.service_account import Credentials
+except ImportError:  # pragma: no cover - optional in test environments
+    build = None
+    Credentials = None
 
 # ============================
 # CONFIG
@@ -67,6 +72,33 @@ def try_extract_price_from_element(element):
     return None
 
 
+def normalize_selectors(selectors):
+    if not selectors:
+        return []
+    if isinstance(selectors, str):
+        return [selectors]
+    return [sel for sel in selectors if isinstance(sel, str) and sel.strip()]
+
+
+def find_price_from_selectors(soup, selectors):
+    for sel in normalize_selectors(selectors):
+        elements = soup.select(sel)
+        if not elements:
+            continue
+
+        for element in elements:
+            price = try_extract_price_from_element(element)
+            if price:
+                return price, sel
+
+            for child in element.select("*"):
+                price = try_extract_price_from_element(child)
+                if price:
+                    return price, sel
+
+    return "N/A", "not-found"
+
+
 # ============================
 # REQUESTS SCRAPER
 # ============================
@@ -75,26 +107,10 @@ def fetch_price_requests(url, selectors):
     try:
         html = session.get(url, timeout=10).text
         soup = BeautifulSoup(html, "lxml")
+        price, source = find_price_from_selectors(soup, selectors)
+        return price, source
 
-        for sel in selectors:
-            el = soup.select_one(sel)
-            if el:
-                price = try_extract_price_from_element(el)
-                if price:
-                    return price, sel
-
-            if not el:
-                continue
-
-            fallback_elements = soup.select(f"{sel} *")
-            for fallback_el in fallback_elements:
-                price = try_extract_price_from_element(fallback_el)
-                if price:
-                    return price, sel
-
-        return "N/A", "not-found"
-
-    except:
+    except Exception:
         return "N/A", "load-error"
 
 # ============================
@@ -106,22 +122,39 @@ async def fetch_price_playwright_async(context, task):
     try:
         await page.goto(task["url"], timeout=60000, wait_until="domcontentloaded")
 
-        for sel in task["selectors"]:
+        for sel in normalize_selectors(task.get("selectors", [])):
             try:
-                el = page.locator(sel).first
-                if await el.count() > 0:
-                    text = await el.inner_text(timeout=5000)
+                elements = page.locator(sel)
+                count = await elements.count()
+                if count == 0:
+                    continue
+
+                for idx in range(count):
+                    el = elements.nth(idx)
+                    text = await el.evaluate(
+                        """(node) => {
+                            const attrs = ['content', 'value', 'data-price', 'data-product-price', 'data-price-value'];
+                            const values = [];
+                            for (const attr of attrs) {
+                                const value = node.getAttribute(attr);
+                                if (value) values.push(value);
+                            }
+                            const text = node.innerText || node.textContent || '';
+                            if (text) values.push(text);
+                            return values.join(' ');
+                        }"""
+                    )
                     price = extract_price_from_text(text)
                     if price:
                         await page.close()
                         return task, price, sel
-            except:
+            except Exception:
                 pass
 
         await page.close()
         return task, "N/A", "not-found"
 
-    except:
+    except Exception:
         await page.close()
         return task, "N/A", "load-error"
 
@@ -172,6 +205,10 @@ def scrape_playwright(tasks):
 # ============================
 
 def write_to_sheet(rows):
+    if not Credentials or not build:
+        print("Google Sheets credentials unavailable; skipping write.")
+        return
+
     creds = Credentials.from_service_account_info(
         json.loads(os.getenv("GOOGLE_SERVICE_ACCOUNT")),
         scopes=["https://www.googleapis.com/auth/spreadsheets"]

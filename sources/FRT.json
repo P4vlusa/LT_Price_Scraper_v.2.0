@@ -6,7 +6,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-14-dc14250-core-5-120u-dc4c5386w",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -14,7 +14,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-14-dc14250-core-5-120u-f0ftk5",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-14-em0024au-ryzen-5-7520u-d0bg8pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-14-em0255au-r5-7530u-c81n3pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-14-ep1176tu-ultra-5-125h-c89zqpa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -46,7 +46,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-14-ep1200tu-ultra-7-155h-d0bg9pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-14-ep1201tu-ultra-5-125h-d0bh0pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-14-hc0028tu-ultra-5-225u-d72bjpa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i5-1334u-71092479",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i5-1334u-71071928",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -86,7 +86,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i7-1355u-71073959",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i7-1355u-71084747",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -102,7 +102,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i7-1355u-cph991",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -110,7 +110,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i5-1334u-cph992",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -118,7 +118,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i7-1355u-cph997",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -126,7 +126,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i7-1355u-i7u161w11slu-512gb",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -134,7 +134,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i7-1355u-i7u161w11slu",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -142,7 +142,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i7-1355u-dc5i7952w1",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -150,7 +150,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i5-1334u-i5u165w11slu",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -158,7 +158,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15250-i5-1334u-i5u165w11slu-5",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -166,7 +166,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-15-dc15255-r5-7530u-dc5r5802w1",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -174,7 +174,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-15-fd1289tu-ultra-7-155h-c2cv8pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -182,7 +182,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-16-dc16250-core-7-150u-c7u161w11blu",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -190,7 +190,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-16-dc16251-core7-150u-dc6c7557w1",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -198,7 +198,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-240r-g9-i3-1315u-ax3c6at",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -206,7 +206,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-245-g10-a20tfpt-r5-7530u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -214,7 +214,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-245-g10-r7-7730u-bg5u8pt",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -222,7 +222,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-250r-g10-core-5-120u-c3sh7at",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -230,7 +230,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-250r-g10-core-7-150u-cc9c0pt",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -238,7 +238,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-250r-g9-core-5-120u-c40lkat",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -246,7 +246,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cmhh2vn893sh-i5-13420h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -254,7 +254,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cmhi2vn894sh-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -262,7 +262,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-7-gaming-a715-59g-57tu-i5-12450h-16gb",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -270,7 +270,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-aspire-7-a715-59g-78wg-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -278,7 +278,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-go-14-ai-ag14-71m-52lh-ultra5-115u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -286,7 +286,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-go-14-ag14-72p-563l-core-5-120u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -294,7 +294,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-go-15-ai-ag15-52p-52wt",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -302,7 +302,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-go-15-ag15-72p-35x9-i3-1305u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -310,7 +310,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-14-ai-al14-53p-5387",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -318,7 +318,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-14-gen-2-al14-52m-32kv",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -326,7 +326,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-14-al14-52m-52uu-i5-1335u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -334,7 +334,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-14-al14-52p-309t-i3-1305u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -342,7 +342,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-15-al15-41p-r3ql-r7-5700u-8gb",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -350,7 +350,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-15-al15-48p-r5mn-r5-5625u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -358,7 +358,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-prestige-13-ai-evo-a1mg-062vn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -366,7 +366,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-cyborg-15-a13uc-2082vn-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -374,7 +374,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-cyborg-15-a13vek-2089vn-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -382,7 +382,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-cyborg-15-ai-a1vek-245vn-ultra-5-135h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -390,7 +390,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-cyborg-15-b13wekg-676vn-i5-13420h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -398,7 +398,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-cyborg-15-b13wfkg-658vn-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -406,7 +406,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-cyborg-15-b2rwekg-402vn-core-5-210h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -414,7 +414,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-15-3530-71053721",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -422,7 +422,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-15-3530-i7-1355u-p16wd",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -430,7 +430,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-elitebook-8-g1i-14-ultra-7-258v-d8ck0at",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -438,7 +438,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-g6x-9mg-i7-13650hx-9rc6l9kghsiix1vn000",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -446,7 +446,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-g6x-9mg-i7-13650hx-9rc6l9mghsjix1vn000",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -454,7 +454,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-gaming-k3605vc-rp431w-i5-13420h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -462,7 +462,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cmhi2vn893sh-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -470,7 +470,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cthi3vn893sh-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -478,7 +478,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cvhi3vn893sh-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -486,7 +486,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cvhi3vnc93sh-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -494,7 +494,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cwhi3vn864sh-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -502,7 +502,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-a16-cwhi3vnc94sh-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -510,7 +510,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-g6x-9mg-i7-13650hx-9rc6l9mghsiix1vn000",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -518,7 +518,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-probook-4-g1ah-14-r5-220",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -526,7 +526,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-5-2-in-1-14iph11-u5-322-83ug0026vn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -534,7 +534,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-14arp10-r5-7535hs-83k600e6vn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -542,7 +542,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-14iph11-u5-322-83uq003nvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -550,7 +550,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-14irh10-83k0000avn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -558,7 +558,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-14irh10-i5-13420h-83k0000bvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -566,7 +566,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-15abr8-82xm00mdvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -574,7 +574,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-15arp10-r5-7533hs-83k70019vn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -582,7 +582,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-15arp10-r5-7535hs-83k700eqvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -590,7 +590,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-15arp10-r7-7735hs-83k700yvvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -598,7 +598,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-16arp10-amd-ryzen-5-7533hs-24gb-83k80017vn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -606,7 +606,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-16arp10-ryzen-5-7535hs-83k80075vn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -614,7 +614,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-16arp10-ryzen-5-7535hs-83k800gtvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -622,7 +622,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-16iph11-u5-322-83us002tvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -630,7 +630,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-16iph11-u7-355-83us002wvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -638,7 +638,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-5-14akp10-ryzen-ai-5-330-83hx00abvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -646,7 +646,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-5-14iph11-u5-322-83s5000dvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -654,7 +654,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-5-oled-15arp10-83j3001dvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -662,7 +662,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-14-5441-x1p-64-100-5mnk1",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -670,7 +670,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-14-5441-x1p-64-100n4o10441w1",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -678,7 +678,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15hx-b14wek-027vn-i7-14650hx",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -686,7 +686,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-hx-b14wek-286vn-i5-14450hx",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -694,7 +694,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-hx-b14wfk-025vn-i7-14650hx",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -702,7 +702,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-katana-15-hx-b14wfk-267vn-i7-14650hx",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -710,7 +710,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-prestige-14-ai-d3mg-022vn-u7-355",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -718,7 +718,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-legion-5-15irx10-i7-13650hx-83ly00hrvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -726,7 +726,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-15irx10-i7-13645hx-83je01agvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -734,7 +734,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-15irx9-i7-13650hx-83dv01alvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -742,7 +742,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-essential-15arp10e-r5-7535hs-83s0000dvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -750,7 +750,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-15arp10e-r7-7735hs-83s0006rvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -758,7 +758,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-loq-15arp10e-ryzen-7-170-83s000dcvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -766,7 +766,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-14-f13mg-466vn-i5-1334u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -774,7 +774,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-14-f1mg-432vn-core-5-120u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -782,7 +782,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-15-f13mg-667vn-i5-1334u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -790,7 +790,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-15-f1mg-1225vn-core-5-120u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -798,7 +798,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-15-h-ai-c2hmg-220vn-ultra-7-255h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -806,7 +806,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-propanel-anv15-41-r0fe-r7-7735hs",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -814,7 +814,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-propanel-anv15-41-r0y4-r7-7735hs",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -822,7 +822,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-anv15-41-r732-r5-6600h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -830,7 +830,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-propanel-anv15-41-r7cr-r5-7535hs",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -838,7 +838,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-propanel-anv15-41-r9m1-r5-7535hs",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -846,7 +846,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-propanel-anv15-52-59aa-i5-13420h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -854,7 +854,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-propanel-anv15-52-59rr-core-5-210h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -862,7 +862,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-gaming-nitro-v-15-propanel-anv15-52-72bm-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -870,7 +870,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-5-ai-16-af1048tu-ultra-5-225u-bz7q9pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -878,7 +878,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-5-ai-16-af1052tu-ultra-7-255u-c1mn6pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -886,7 +886,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-5-ai-16-af1054tu-ultra-7-255u-c1mn8pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -894,7 +894,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-5-flip-x360-14-fp0057tu-core-5-120u-bz7q6pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -902,7 +902,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-5-16-ag1068au-amd-ai-5-340-bz7t0pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -910,7 +910,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-7-14-fs0032tu-core-9-270h-c1nt8pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -918,7 +918,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-7-aero-13-bg1087au-ryzen-ai-5-340-bz7s1pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -926,7 +926,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-7-14-fr0033tu-ultra-5-225u-c1mn2pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -934,7 +934,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-prestige-16-ai-c3mg-024vn-ux9-388h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -942,7 +942,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-pro-15-essential-pv15250-core-3-100u-vkvkd",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -950,7 +950,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-stealth-a16-ai-a3xvgg-208vn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -958,7 +958,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-swift-go-ai-oled-sfg14-73-57fz-u5-125h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -966,7 +966,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-swift-go-14-ai-oled-sfg14-73-75ym-u7-155h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -974,7 +974,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-swift-go-14-ai-sfg14-75-5264-ultra-5-226v",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -982,7 +982,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-swift-lite-14-ai-sfl14-51m-56hs-u5-125u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -990,7 +990,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-swift-lite-14-ai-sfl14-51m-78xz-u7-155u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -998,7 +998,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-thin-15-b13uc-3247vn-i5-13420h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1006,7 +1006,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkbook-16-g9-irl-i5-13420h-21us008fvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1014,7 +1014,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-tuf-gaming-fa506ncg-hn184w-r7-7445hs",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1022,7 +1022,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-tuf-gaming-a15-fa506ncg-hn329w-r7-8845hs",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1030,7 +1030,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-tuf-gaming-fa607nug-rl129w-r7-7445hs",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1038,7 +1038,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-v15-g5-irl-intel-core-i5-13420h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1046,7 +1046,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-vector-16-hx-ai-a2xwhg-010vn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1054,7 +1054,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-venture-a15-ai-a2hmg-003vn-r7-260",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1062,7 +1062,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-venture-a16-ai-a3hmg-017vn-ryzen-ai-7-350",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1070,7 +1070,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-venturepro-16-ai-a1veg-003vn-ultra7-155h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1078,7 +1078,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-gaming-victus-15-fa2456tx-i7-13620h-d2hp1pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1086,7 +1086,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-gaming-victus-15-fa2732tx-i5-13420h-b85lppa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1094,7 +1094,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x1407ca-ly008w-ultra-5-225h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1102,7 +1102,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-a1407qa-ly114w-qualcomm-x1-26-100",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1110,7 +1110,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-m1405naq-ly010w-r5-150",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1118,7 +1118,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-m1405naq-ly011w-r7-170",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1126,7 +1126,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-14-oled-a1405za-km264w",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1134,7 +1134,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x1404va-eb355w-core-7-150u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1142,7 +1142,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x1404va-eb509w-i3-1315u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1150,7 +1150,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-m1502naq-bq021w-r5-150",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1158,7 +1158,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-m1502naq-bq031w-r7-170",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1166,7 +1166,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x1504va-bq265w-core-5-120u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1174,7 +1174,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x1605va-mb1826w",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1182,7 +1182,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x1607ca-mb980w-ultra-5-225h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1190,7 +1190,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-16-x1607ca-mb990w-ultra-7-255h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1198,7 +1198,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-go-14-e1404fa-eb935w-r5-40",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1206,7 +1206,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-e1504fa-bq1150w-r5-7520u",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1214,7 +1214,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-go-15-e1504fa-bq340w-r5-40",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1222,7 +1222,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-go-15-e1504fa-bq4821w-r5-40",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1230,7 +1230,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-e1504fa-nj454w",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1238,7 +1238,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-go-15-e1504ga-bq1141w-i3-n305",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1246,7 +1246,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s14-m3407ga-sf030w-ryzen-ai-7-445",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1254,7 +1254,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s14-m3407ha-sf490w-r7-260",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1262,7 +1262,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s14-m3407ka-sf034ws-amd-ryzen-ai-5-330",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1270,7 +1270,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s14-s3407ca-ly095ws-ultra-5-225h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1278,7 +1278,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s3407va-ly146w-core-5-210h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1286,7 +1286,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s16-m3607ga-sh034w-ryzen-ai-7-445",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1294,7 +1294,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s3607va-rp056w-i7-13620h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1302,7 +1302,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-lite-14-al14-45p-r7z3",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1310,7 +1310,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-14-m1407ka-ly849w-r5-330",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1318,7 +1318,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-14-dc14255-ryzen-ai-5-330-dc4ai5278w1",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1326,7 +1326,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-gaming-victus-15-fb3115ax-r7-7445hs-bx9c9pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1334,7 +1334,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/hp-omnibook-x-flip-14-fm0086tu-ultra-5-226v-bz7q0pa",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1342,7 +1342,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-loq-e-15irx11-i5-13450hx-83sc003rvn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1350,7 +1350,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/lenovo-v14-g5-irl-intel-core-i5-13420h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1358,7 +1358,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-crosshair-16-hx-d2xwgkg-034vn-u7-255hx",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1366,7 +1366,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-prestige-13-ai-evo-a2vmg-040vn",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1374,7 +1374,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-stealth-16-ai-b3wf-007vn-u9-386h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1382,7 +1382,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/msi-stealth-16-ai-b3wg-008vn-u9-386h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1390,7 +1390,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-7-gaming-a715-59g-53gz-core-5-210h",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1398,7 +1398,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-16-plus-db16250-ultra-7-256v",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1406,7 +1406,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-14-5441-x1-26-100-71069158",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     },
     {
@@ -1414,7 +1414,7 @@
       "url": "https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-5440-core-7-150u-c7u165w11ibd2",
       "selector": [
         "#price-product > div:nth-child(1) > span",
-        "#price-product > div:nth-child(1) > span"
+        "#price-product > div > div:nth-child(1) > span"
       ]
     }
   ]
